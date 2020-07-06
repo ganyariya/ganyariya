@@ -24,7 +24,12 @@
 - HipHop-Rap
 - 卯月コウ
 
+<div align="center">
+
 [![](http://img.youtube.com/vi/Z0cqLVSe_DU/0.jpg)](http://www.youtube.com/watch?v=Z0cqLVSe_DU "卯月コウ")
+
+</div>
+
 
 
 # 🐾 Competitive Programming
