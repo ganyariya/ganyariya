@@ -3,7 +3,7 @@
     <img src="ganariya.png" width="200px">
 </div>
 
-# 🐾ganariya
+# 🐾 ganariya
 
 - [HP](https://ganariya.github.io/whoami/)
 - [works](https://ganariya.github.io/works/)
@@ -15,7 +15,7 @@
 - [whishlist](https://www.amazon.co.jp/hz/wishlist/ls/7297J1ZN3DSH)
 
 
-# 🐾Hobby
+# 🐾 Hobby
 
 - Competitive Programming
 - Programming
@@ -27,7 +27,7 @@
 [![](http://img.youtube.com/vi/Z0cqLVSe_DU/0.jpg)](http://www.youtube.com/watch?v=Z0cqLVSe_DU "卯月コウ")
 
 
-# 🐾Competitive Programming
+# 🐾 Competitive Programming
 
 <div align="center">
     <img src="atcoder.png" width="400px">
@@ -37,7 +37,7 @@
 - [Codeforces](https://codeforces.com/profile/ganariya)
 - [YukiCoder](https://yukicoder.me/users/3037)
 
-# 🐾Qualification
+# 🐾 Qualification
 
 - TOEIC: 925
 - Fundamental Information Technology Engineer Examination　
@@ -46,7 +46,7 @@
 - 第一回日本最強プログラマー学生選手権決勝
 - 第二回全国統一プログラミング王決定戦本戦
 
-# 🐾Contiributes
+# 🐾 Contiributes
 
 Thanks to all contributors 🎉
 Please contribute anythings!
