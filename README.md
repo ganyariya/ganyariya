@@ -22,7 +22,9 @@
 - Anime / niconico
 - Virtual Youtuber
 - HipHop-Rap
-- [![](http://img.youtube.com/vi/Z0cqLVSe_DU/0.jpg)](http://www.youtube.com/watch?v=Z0cqLVSe_DU "卯月コウ")
+- 卯月コウ
+
+[![](http://img.youtube.com/vi/Z0cqLVSe_DU/0.jpg)](http://www.youtube.com/watch?v=Z0cqLVSe_DU "卯月コウ")
 
 
 # 🐾Competitive Programming
