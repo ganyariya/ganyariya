@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="ganariya.png" width="200px">
+    <img src="https://github.com/Ganariya/Ganariya/blob/master/ganariya.png?raw=true" width="200px">
 </div>
 
 # 🐾 ganariya
