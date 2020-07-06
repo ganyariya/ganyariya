@@ -30,7 +30,7 @@
 # 🐾 Competitive Programming
 
 <div align="center">
-    <img src="ganariya2.png" width="400px">
+    <img src="https://github.com/Ganariya/Ganariya/blob/master/ganariya2.png?raw=true" width="200px">
 </div>
 
 - [AtCoder](https://atcoder.jp/users/ganariya2525)
