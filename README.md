@@ -1,8 +1,4 @@
 
-<div align="center">
-    <img src="https://github.com/Ganariya/Ganariya/blob/master/ganariya.png?raw=true" width="200px">
-</div>
-
 ```bash
 $ docker run --rm ganariya/ganariya:ascii
 
