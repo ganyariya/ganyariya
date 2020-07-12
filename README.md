@@ -23,7 +23,7 @@ $ docker run --rm ganariya/ganariya:ascii
 - [Scrapbox](https://scrapbox.io/ganariya/)
 - [YouTube](https://www.youtube.com/channel/UCPTKMrRhOSf30v59Ktbpl1A)
 - [Twitter](https://twitter.com/ganariya)
-- [whishlist](https://www.amazon.co.jp/hz/wishlist/ls/7297J1ZN3DSH)
+- [wishlist](https://www.amazon.co.jp/hz/wishlist/ls/7297J1ZN3DSH)
 
 
 # 🐾 Hobby
