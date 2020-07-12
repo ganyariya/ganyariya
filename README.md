@@ -3,6 +3,17 @@
     <img src="https://github.com/Ganariya/Ganariya/blob/master/ganariya.png?raw=true" width="200px">
 </div>
 
+```bash
+$ docker run --rm ganariya/ganariya:ascii
+
+  __ _  __ _ _ __   __ _ _ __(_)_   _  __ _
+ / _` |/ _` | '_ \ / _` | '__| | | | |/ _` |
+| (_| | (_| | | | | (_| | |  | | |_| | (_| |
+ \__, |\__,_|_| |_|\__,_|_|  |_|\__, |\__,_|
+ |___/                          |___/
+
+```
+
 # 🐾 ganariya
 
 - [HP](https://ganariya.github.io/whoami/)
