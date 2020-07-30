@@ -58,14 +58,18 @@ $ docker run --rm ganariya/ganariya:ascii
 - 第一回日本最強プログラマー学生選手権決勝
 - 第二回全国統一プログラミング王決定戦本戦
 
-# :octocat: GitHub Stats
+# 🐾 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ganariya&count_private=true&show_icons=true&theme=dracula" />
 </a>
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganariya&layout=compact&theme=dracula" />
 </a>
+
+
 
 # 🐾 Contiributes
 
