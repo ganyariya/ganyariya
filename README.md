@@ -13,13 +13,13 @@ $ docker run --rm ganariya/ganariya:ascii
 # 🐾 ganariya
 
 - [HP](https://ganariya.github.io/whoami/)
-- [works](https://ganariya.github.io/works/)
+- [Works](https://ganariya.github.io/works/)
 - [Qiita](https://qiita.com/ganariya)
 - [Hatena](https://ganariya.hatenablog.com/)
-- [Scrapbox](https://scrapbox.io/ganariya/)
+- [Scrapbox(Competitive Programming)](https://scrapbox.io/ganariya/)
 - [YouTube](https://www.youtube.com/channel/UCPTKMrRhOSf30v59Ktbpl1A)
 - [Twitter](https://twitter.com/ganariya)
-- [wishlist](https://www.amazon.co.jp/hz/wishlist/ls/7297J1ZN3DSH)
+- [Amazon-wishlist](https://www.amazon.co.jp/hz/wishlist/ls/7297J1ZN3DSH)
 
 
 # 🐾 Hobby
@@ -54,7 +54,7 @@ $ docker run --rm ganariya/ganariya:ascii
 - TOEIC: 925
 - Fundamental Information Technology Engineer Examination　
 - Applied Information Technology Engineer Examination
-- ICPC Asia2018
+- ICPC Asia Reginal 2018
 - 第一回日本最強プログラマー学生選手権決勝
 - 第二回全国統一プログラミング王決定戦本戦
 
