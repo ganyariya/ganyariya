@@ -10,6 +10,10 @@ $ docker run --rm ganariya/ganariya:ascii
 
 ```
 
+# 🐾 Strategy
+
+- [ganariya成長戦略2020](https://docs.google.com/presentation/d/1miXe07Y9XukI6bwbh8q4TjisLdw-n51e3prdmfTTCgY/edit)
+
 # 🐾 ganariya
 
 - [HP](https://ganariya.github.io/whoami/)
