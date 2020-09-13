@@ -45,16 +45,11 @@ $ docker run --rm ganariya/ganariya:ascii
 
 # 🐾 Competitive Programming
 
-<div align="center">
+<!-- <div align="center">
     <img src="https://github.com/Ganariya/Ganariya/blob/master/ganariya2.png?raw=true" width="400px">
-</div>
+</div> -->
 
-[![Badge](https://cp-logo.vercel.app/atcoder/ganariya2525)]
-(https://atcoder.jp/users/ganariya2525) 
-
-- [AtCoder](https://atcoder.jp/users/ganariya2525)
-- [Codeforces](https://codeforces.com/profile/ganariya)
-- [YukiCoder](https://yukicoder.me/users/3037)
+[![Badge](https://cp-logo.vercel.app/atcoder/ganariya2525)](https://atcoder.jp/users/ganariya2525) [![Badge](https://cp-logo.vercel.app/codeforces/ganariya)](https://codeforces.com/profile/ganariya) [![Badge](https://cp-logo.vercel.app/yukicoder/ganariya)](https://yukicoder.me/users/3037)
 
 # 🐾 Qualification
 
