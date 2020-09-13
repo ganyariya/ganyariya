@@ -45,6 +45,9 @@ $ docker run --rm ganariya/ganariya:ascii
     <img src="https://github.com/Ganariya/Ganariya/blob/master/ganariya2.png?raw=true" width="400px">
 </div>
 
+[![Badge](https://cp-logo.vercel.app/atcoder/ganariya2525)]
+(https://atcoder.jp/users/ganariya2525) 
+
 - [AtCoder](https://atcoder.jp/users/ganariya2525)
 - [Codeforces](https://codeforces.com/profile/ganariya)
 - [YukiCoder](https://yukicoder.me/users/3037)
