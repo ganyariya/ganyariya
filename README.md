@@ -26,7 +26,9 @@ $ docker run --rm ganariya/ganariya:ascii
 - [Amazon-wishlist](https://www.amazon.co.jp/hz/wishlist/ls/7297J1ZN3DSH)
 
 
-![toradora](https://github.com/Ganariya/Ganariya/raw/master/source.gif)
+<div align="center">
+    <img src="https://github.com/Ganariya/Ganariya/raw/master/source.gif" width="400px">
+</div>
 
 
 # 🐾 Hobby
