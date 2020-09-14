@@ -25,6 +25,8 @@ $ docker run --rm ganariya/ganariya:ascii
 - [Twitter](https://twitter.com/ganariya)
 - [Amazon-wishlist](https://www.amazon.co.jp/hz/wishlist/ls/7297J1ZN3DSH)
 
+![ga](http://ganariya.pythonanywhere.com/)
+
 
 # 🐾 Hobby
 
