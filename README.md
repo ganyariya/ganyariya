@@ -65,7 +65,7 @@ $ docker run --rm ganariya/ganariya:ascii
 - 第一回日本最強プログラマー学生選手権決勝
 - 第二回全国統一プログラミング王決定戦本戦
 
-# 🐾 GitHub and Qiita Stats
+# 🐾 Status
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Ganariya&count_private=true&show_icons=true&theme=dracula)
 
@@ -73,6 +73,7 @@ $ docker run --rm ganariya/ganariya:ascii
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/ganariya/posts.svg)](http://qiita.com/ganariya) 
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/ganariya/contributions.svg)](http://qiita.com/ganariya) [![My Qiita followers](https://qiita-badge.apiapi.app/s/ganariya/followers.svg)](http://qiita.com/ganariya)
                 
+[![Visits Badge](https://badges.pufler.dev/visits/Ganariya/Ganariya)](https://github.com/Ganariyaa) [![Updated Badge](https://badges.pufler.dev/updated/Ganariya/Ganariya)](https://github.com/Ganariya) [![Commits Badge](https://badges.pufler.dev/commits/monthly/Ganariya)](https://github.com/Ganariya)
 
 # 🐾 Contiributes
 
