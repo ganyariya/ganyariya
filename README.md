@@ -75,6 +75,9 @@ $ docker run --rm ganariya/ganariya:ascii
                 
 [![Visits Badge](https://badges.pufler.dev/visits/Ganariya/Ganariya)](https://github.com/Ganariyaa) [![Updated Badge](https://badges.pufler.dev/updated/Ganariya/Ganariya)](https://github.com/Ganariya) [![Commits Badge](https://badges.pufler.dev/commits/monthly/Ganariya)](https://github.com/Ganariya)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 # 🐾 Contiributes
 
 Thanks to all contributors 🎉
