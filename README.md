@@ -10,11 +10,11 @@ $ docker run --rm ganariya/ganariya:ascii
 
 ```
 
-# 🐾 Strategy
+# 🐾 Strategy & Profile
 
 - [ganariya成長戦略2020](https://docs.google.com/presentation/d/1miXe07Y9XukI6bwbh8q4TjisLdw-n51e3prdmfTTCgY/edit)
 
-# 🐾 ganariya
+# 🐾 Links
 
 - [HP](https://ganariya.github.io/whoami/)
 - [Works](https://ganariya.github.io/works/)
@@ -38,15 +38,6 @@ $ docker run --rm ganariya/ganariya:ascii
 - Anime / niconico
 - Virtual Youtuber
 - HipHop-Rap
-- 卯月コウ
-
-<div align="center">
-
-[![](http://img.youtube.com/vi/Z0cqLVSe_DU/0.jpg)](http://www.youtube.com/watch?v=Z0cqLVSe_DU "卯月コウ")
-
-</div>
-
-
 
 # 🐾 Competitive Programming
 
