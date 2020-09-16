@@ -73,7 +73,7 @@ $ docker run --rm ganariya/ganariya:ascii
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/ganariya/posts.svg)](http://qiita.com/ganariya) 
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/ganariya/contributions.svg)](http://qiita.com/ganariya) [![My Qiita followers](https://qiita-badge.apiapi.app/s/ganariya/followers.svg)](http://qiita.com/ganariya)
                 
-[![Visits Badge](https://badges.pufler.dev/visits/Ganariya/Ganariya)](https://github.com/Ganariyaa) [![Updated Badge](https://badges.pufler.dev/updated/Ganariya/Ganariya)](https://github.com/Ganariya) [![Commits Badge](https://badges.pufler.dev/commits/monthly/Ganariya)](https://github.com/Ganariya)
+[![Updated Badge](https://badges.pufler.dev/updated/Ganariya/Ganariya)](https://github.com/Ganariya) [![Commits Badge](https://badges.pufler.dev/commits/monthly/Ganariya)](https://github.com/Ganariya)
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-101-blue)
