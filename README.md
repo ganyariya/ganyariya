@@ -76,6 +76,79 @@ $ docker run --rm ganariya/ganariya:ascii
 [![Visits Badge](https://badges.pufler.dev/visits/Ganariya/Ganariya)](https://github.com/Ganariyaa) [![Updated Badge](https://badges.pufler.dev/updated/Ganariya/Ganariya)](https://github.com/Ganariya) [![Commits Badge](https://badges.pufler.dev/commits/monthly/Ganariya)](https://github.com/Ganariya)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-101-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 640 Contributions in the Year 2020
+ > 
+> 📦 1.5 MB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 21 Public Repositories
+ > 
+> 🔑 10 Private Repositories 
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    183 commits    ████████░░░░░░░░░░░░░░░░░   34.79% 
+🌆 Daytime    191 commits    █████████░░░░░░░░░░░░░░░░   36.31% 
+🌃 Evening    150 commits    ███████░░░░░░░░░░░░░░░░░░   28.52% 
+🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       87 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.54% 
+Tuesday      79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.02% 
+Wednesday    86 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.35% 
+Thursday     74 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.07% 
+Friday       68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.93% 
+Saturday     68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.93% 
+Sunday       64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.17%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   11 repos            █████████░░░░░░░░░░░░░░░░   37.93% 
+JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.24% 
+Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
+TeX                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/Ganariya/Ganariya/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 # 🐾 Contiributes
