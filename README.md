@@ -31,7 +31,7 @@ $ docker run --rm ganariya/ganariya:ascii
 - Fundamental Information Technology Engineer Examination　
 - Applied Information Technology Engineer Examination
 
-### 🐾 Intern
+#### 🐾 Intern
 
 - freee Summer Intern
 - いい生活 long-term internship
