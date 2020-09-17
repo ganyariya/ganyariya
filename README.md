@@ -30,20 +30,20 @@ $ docker run --rm ganariya/ganariya:ascii
 - TOEIC: 925
 - Fundamental Information Technology Engineer Examination　
 - Applied Information Technology Engineer Examination
-- ICPC Asia Reginal 2018
-- 第一回日本最強プログラマー学生選手権決勝
-- 第二回全国統一プログラミング王決定戦本戦
+
+### 🐾 Intern
+
 - freee Summer Intern
 - いい生活 long-term internship
 
 
 # 🐾 Competitive Programming
 
-<!-- <div align="center">
-    <img src="https://github.com/Ganariya/Ganariya/blob/master/ganariya2.png?raw=true" width="400px">
-</div> -->
-
 [![Badge](https://cp-logo.vercel.app/atcoder/ganariya2525)](https://atcoder.jp/users/ganariya2525) [![Badge](https://cp-logo.vercel.app/codeforces/ganariya)](https://codeforces.com/profile/ganariya) [![Badge](https://cp-logo.vercel.app/yukicoder/ganariya)](https://yukicoder.me/users/3037)
+
+- ICPC Asia Reginal 2018
+- 第一回日本最強プログラマー学生選手権決勝
+- 第二回全国統一プログラミング王決定戦本戦
 
 # 🐾 Hobby
 
