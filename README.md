@@ -30,14 +30,17 @@ $ docker run --rm ganariya/ganariya:ascii
     <img src="https://github.com/Ganariya/Ganariya/raw/master/source.gif" width="400px">
 </div>
 
+# 🐾 Qualification
 
-# 🐾 Hobby
+- TOEIC: 925
+- Fundamental Information Technology Engineer Examination　
+- Applied Information Technology Engineer Examination
+- ICPC Asia Reginal 2018
+- 第一回日本最強プログラマー学生選手権決勝
+- 第二回全国統一プログラミング王決定戦本戦
+- freee Summer Intern
+- いい生活 long-term internship
 
-- Competitive Programming
-- Programming
-- Anime / niconico
-- Virtual Youtuber
-- HipHop-Rap
 
 # 🐾 Competitive Programming
 
@@ -47,14 +50,14 @@ $ docker run --rm ganariya/ganariya:ascii
 
 [![Badge](https://cp-logo.vercel.app/atcoder/ganariya2525)](https://atcoder.jp/users/ganariya2525) [![Badge](https://cp-logo.vercel.app/codeforces/ganariya)](https://codeforces.com/profile/ganariya) [![Badge](https://cp-logo.vercel.app/yukicoder/ganariya)](https://yukicoder.me/users/3037)
 
-# 🐾 Qualification
+# 🐾 Hobby
 
-- TOEIC: 925
-- Fundamental Information Technology Engineer Examination　
-- Applied Information Technology Engineer Examination
-- ICPC Asia Reginal 2018
-- 第一回日本最強プログラマー学生選手権決勝
-- 第二回全国統一プログラミング王決定戦本戦
+- Competitive Programming
+- Programming
+- Anime / niconico
+- Virtual Youtuber
+- HipHop-Rap
+- Writing Tech Blog
 
 # 🐾 Status
 
