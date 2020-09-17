@@ -16,11 +16,10 @@ $ docker run --rm ganariya/ganariya:ascii
 
 # 🐾 Links
 
-- [HP](https://ganariya.github.io/whoami/)
-- [Works](https://ganariya.github.io/works/)
 - [Qiita](https://qiita.com/ganariya)
 - [Hatena](https://ganariya.hatenablog.com/)
 - [Scrapbox(Competitive Programming)](https://scrapbox.io/ganariya/)
+- [Works](https://ganariya.github.io/works/)
 - [YouTube](https://www.youtube.com/channel/UCPTKMrRhOSf30v59Ktbpl1A)
 - [Twitter](https://twitter.com/ganariya)
 - [Amazon-wishlist](https://www.amazon.co.jp/hz/wishlist/ls/7297J1ZN3DSH)
