@@ -32,8 +32,8 @@ $ docker run --rm ganariya/ganariya:ascii
 
 #### 🐾 Intern
 
-- freee Summer Intern
-- いい生活 long-term internship
+- freee Summer Internship
+- いい生活 Long-term internship
 
 
 # 🐾 Competitive Programming
