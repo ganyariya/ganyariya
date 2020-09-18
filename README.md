@@ -13,6 +13,7 @@ $ docker run --rm ganariya/ganariya:ascii
 # 🐾 Strategy & Profile
 
 - [ganariya成長戦略2020](https://docs.google.com/presentation/d/1miXe07Y9XukI6bwbh8q4TjisLdw-n51e3prdmfTTCgY/edit)
+- [ganariyaLookBack](https://drive.google.com/drive/folders/16P73HK-dLVChC2ivkYosRIY9bT6VXmaC?usp=sharing)
 
 # 🐾 Links
 
@@ -30,7 +31,7 @@ $ docker run --rm ganariya/ganariya:ascii
 - Fundamental Information Technology Engineer Examination　
 - Applied Information Technology Engineer Examination
 
-#### 🐾 Intern
+##### 🐾 Intern
 
 - freee Summer Internship
 - いい生活 Long-term internship
@@ -48,10 +49,10 @@ $ docker run --rm ganariya/ganariya:ascii
 
 - Competitive Programming
 - Programming
-- Anime / niconico
+- Writing Tech Blog
+- Anime / NicoNico
 - Virtual Youtuber
 - HipHop-Rap
-- Writing Tech Blog
 
 # 🐾 Status
 
