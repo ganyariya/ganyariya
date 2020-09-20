@@ -10,20 +10,17 @@ $ docker run --rm ganariya/ganariya:ascii
 
 ```
 
+### 🐾 Hello
+
+- 🏫 I'm a student at the University of Tsukuba in japan.
+- 🌱 I'm interested in competitive programming, evolutionary computation, team develpment, and backend.
+- 💖 I'd like to give back to community, contents, and people through the power of technology.
+- 📞 Please feel free to ask me on Twitter or Email!
+
 # 🐾 Strategy & Profile
 
 - [ganariya成長戦略2020](https://docs.google.com/presentation/d/1miXe07Y9XukI6bwbh8q4TjisLdw-n51e3prdmfTTCgY/edit)
 - [ganariyaLookBack](https://drive.google.com/drive/folders/16P73HK-dLVChC2ivkYosRIY9bT6VXmaC?usp=sharing)
-
-# 🐾 Links
-
-- [Qiita](https://qiita.com/ganariya)
-- [Hatena](https://ganariya.hatenablog.com/)
-- [Scrapbox(Competitive Programming)](https://scrapbox.io/ganariya/)
-- [Works](https://ganariya.github.io/works/)
-- [YouTube](https://www.youtube.com/channel/UCPTKMrRhOSf30v59Ktbpl1A)
-- [Twitter](https://twitter.com/ganariya)
-- [Amazon-wishlist](https://www.amazon.co.jp/hz/wishlist/ls/7297J1ZN3DSH)
 
 # 🐾 Qualification
 
@@ -31,7 +28,7 @@ $ docker run --rm ganariya/ganariya:ascii
 - Fundamental Information Technology Engineer Examination　
 - Applied Information Technology Engineer Examination
 
-##### 🐾 Intern
+#### 🐾 Intern
 
 - freee Summer Internship
 - いい生活 Long-term internship
@@ -44,6 +41,16 @@ $ docker run --rm ganariya/ganariya:ascii
 - ICPC Asia Reginal 2018
 - 第一回日本最強プログラマー学生選手権決勝
 - 第二回全国統一プログラミング王決定戦本戦
+
+# 🐾 Links
+
+- [Qiita](https://qiita.com/ganariya)
+- [Hatena](https://ganariya.hatenablog.com/)
+- [Scrapbox(Competitive Programming)](https://scrapbox.io/ganariya/)
+- [Works](https://ganariya.github.io/works/)
+- [YouTube](https://www.youtube.com/channel/UCPTKMrRhOSf30v59Ktbpl1A)
+- [Twitter](https://twitter.com/ganariya)
+- [Amazon-wishlist](https://www.amazon.co.jp/hz/wishlist/ls/7297J1ZN3DSH)
 
 # 🐾 Hobby
 
@@ -60,9 +67,7 @@ $ docker run --rm ganariya/ganariya:ascii
 
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/ganariya/posts.svg)](http://qiita.com/ganariya) 
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/ganariya/contributions.svg)](http://qiita.com/ganariya) [![My Qiita followers](https://qiita-badge.apiapi.app/s/ganariya/followers.svg)](http://qiita.com/ganariya)
-                
-[![Updated Badge](https://badges.pufler.dev/updated/Ganariya/Ganariya)](https://github.com/Ganariya) [![Commits Badge](https://badges.pufler.dev/commits/monthly/Ganariya)](https://github.com/Ganariya)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/ganariya/contributions.svg)](http://qiita.com/ganariya) [![My Qiita followers](https://qiita-badge.apiapi.app/s/ganariya/followers.svg)](http://qiita.com/ganariya) [![Commits Badge](https://badges.pufler.dev/commits/monthly/Ganariya)](https://github.com/Ganariya)
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-216-blue)
