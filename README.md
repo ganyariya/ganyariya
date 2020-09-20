@@ -15,12 +15,12 @@ $ docker run --rm ganariya/ganariya:ascii
 - 💖 I'd like to give back to community, contents, and people through the power of technology.
 - 📞 Please feel free to ask me on Twitter or Email!
 
-# 🐾 Strategy & Profile
+## 🐾 Strategy & Profile
 
 - [ganariya成長戦略2020](https://docs.google.com/presentation/d/1miXe07Y9XukI6bwbh8q4TjisLdw-n51e3prdmfTTCgY/edit)
 - [ganariyaLookBack](https://drive.google.com/drive/folders/16P73HK-dLVChC2ivkYosRIY9bT6VXmaC?usp=sharing)
 
-# 🐾 Qualification
+## 🐾 Qualification
 
 - TOEIC: 925
 - Fundamental Information Technology Engineer Examination　
@@ -32,7 +32,7 @@ $ docker run --rm ganariya/ganariya:ascii
 - いい生活 Long-term internship
 
 
-# 🐾 Competitive Programming
+## 🐾 Competitive Programming
 
 [![Badge](https://cp-logo.vercel.app/atcoder/ganariya2525)](https://atcoder.jp/users/ganariya2525) [![Badge](https://cp-logo.vercel.app/codeforces/ganariya)](https://codeforces.com/profile/ganariya) [![Badge](https://cp-logo.vercel.app/yukicoder/ganariya)](https://yukicoder.me/users/3037)
 
@@ -40,7 +40,7 @@ $ docker run --rm ganariya/ganariya:ascii
 - 第一回日本最強プログラマー学生選手権決勝
 - 第二回全国統一プログラミング王決定戦本戦
 
-# 🐾 Links
+## 🐾 Links
 
 - [Qiita](https://qiita.com/ganariya)
 - [Hatena](https://ganariya.hatenablog.com/)
@@ -50,7 +50,7 @@ $ docker run --rm ganariya/ganariya:ascii
 - [Twitter](https://twitter.com/ganariya)
 - [Amazon-wishlist](https://www.amazon.co.jp/hz/wishlist/ls/7297J1ZN3DSH)
 
-# 🐾 Hobby
+## 🐾 Hobby
 
 - Competitive Programming
 - Programming
@@ -59,7 +59,7 @@ $ docker run --rm ganariya/ganariya:ascii
 - Virtual Youtuber
 - HipHop-Rap
 
-# 🐾 Status
+## 🐾 Status
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Ganariya&count_private=true&show_icons=true&theme=dracula)
 
@@ -154,7 +154,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-# 🐾 Contiributes
+## 🐾 Contiributes
 
 Thanks to all contributors 🎉
 Please contribute anythings!
