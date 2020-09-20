@@ -11,7 +11,7 @@ $ docker run --rm ganariya/ganariya:ascii
 ``` -->
 
 <div align="center">
-  <img src="https://media1.tenor.com/images/e12e7b4159705510fbd4102446cfb157/tenor.gif?itemid=16497450"/>
+  <img src="https://media1.tenor.com/images/231ed5e3ad49ebbfd3770031cc1b3f75/tenor.gif?itemid=7432079"/>
 </div>
 
 - 🏫 I'm a student at the University of Tsukuba in japan.
