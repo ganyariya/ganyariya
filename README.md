@@ -1,4 +1,4 @@
-
+<!-- 
 ```bash
 $ docker run --rm ganariya/ganariya:ascii
 
@@ -8,7 +8,11 @@ $ docker run --rm ganariya/ganariya:ascii
  \__, |\__,_|_| |_|\__,_|_|  |_|\__, |\__,_|
  |___/                          |___/
 
-```
+``` -->
+
+<div align="center">
+  <img src="https://media1.tenor.com/images/822c2d72c6cdc2c8b29aac106bee0e58/tenor.gif?itemid=16497450"/>
+</div>
 
 - 🏫 I'm a student at the University of Tsukuba in japan.
 - 🌱 I'm interested in competitive programming, evolutionary computation, team develpment, and backend.
