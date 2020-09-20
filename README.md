@@ -10,8 +10,6 @@ $ docker run --rm ganariya/ganariya:ascii
 
 ```
 
-### 🐾 Hello
-
 - 🏫 I'm a student at the University of Tsukuba in japan.
 - 🌱 I'm interested in competitive programming, evolutionary computation, team develpment, and backend.
 - 💖 I'd like to give back to community, contents, and people through the power of technology.
