@@ -46,16 +46,16 @@ $ docker run --rm ganariya/ganariya:ascii
 
 <!--START_SECTION:custom_action-->
 #### Recently Solved Problems
-![](https://img.shields.io/static/v1?label=ABC179F%20600&message=AC&color=brightgreen)
-![](https://img.shields.io/static/v1?label=ABC179D%20400&message=AC&color=brightgreen)
-![](https://img.shields.io/static/v1?label=ABC179D%20400&message=AC&color=brightgreen)
-![](https://img.shields.io/static/v1?label=ABC179C%20300&message=AC&color=brightgreen)
-![](https://img.shields.io/static/v1?label=ABC179C%20300&message=AC&color=brightgreen)
-![](https://img.shields.io/static/v1?label=ABC179D%200&message=TLE&color=yellow)
-![](https://img.shields.io/static/v1?label=ABC179F%20600&message=AC&color=brightgreen)
-![](https://img.shields.io/static/v1?label=ABC179E%20500&message=AC&color=brightgreen)
-![](https://img.shields.io/static/v1?label=ABC179E%200&message=WA&color=yellow)
-![](https://img.shields.io/static/v1?label=ABC179E%200&message=WA&color=yellow)
+[![Badge](https://img.shields.io/static/v1?label=ABC179F%20600&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc179/submissions/16905912)
+[![Badge](https://img.shields.io/static/v1?label=ABC179D%20400&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc179/submissions/16901128)
+[![Badge](https://img.shields.io/static/v1?label=ABC179D%20400&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc179/submissions/16901089)
+[![Badge](https://img.shields.io/static/v1?label=ABC179C%20300&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc179/submissions/16900765)
+[![Badge](https://img.shields.io/static/v1?label=ABC179C%20300&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc179/submissions/16900728)
+[![Badge](https://img.shields.io/static/v1?label=ABC179D%200&message=TLE&color=yellow)](https://atcoder.jp/contests/abc179/submissions/16889080)
+[![Badge](https://img.shields.io/static/v1?label=ABC179F%20600&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc179/submissions/16886782)
+[![Badge](https://img.shields.io/static/v1?label=ABC179E%20500&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc179/submissions/16882979)
+[![Badge](https://img.shields.io/static/v1?label=ABC179E%200&message=WA&color=yellow)](https://atcoder.jp/contests/abc179/submissions/16882779)
+[![Badge](https://img.shields.io/static/v1?label=ABC179E%200&message=WA&color=yellow)](https://atcoder.jp/contests/abc179/submissions/16882077)
 
 <!--END_SECTION:custom_action-->
 
