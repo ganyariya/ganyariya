@@ -1,0 +1,16 @@
+name: Atcoder
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Ganariya/atcoder-readme-action@master
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          USERNAME: "Ganariya"
+          ATCODER_ACCOUNT: "ganariya2525"
