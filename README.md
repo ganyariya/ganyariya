@@ -46,16 +46,16 @@ $ docker run --rm ganariya/ganariya:ascii
 
 <!--START_SECTION:custom_action-->
 #### Recently Solved Problems
-![](https://img.shields.io/static/v1?label=ABC179F 600&message=AC&color=brightgreen)
-![](https://img.shields.io/static/v1?label=ABC179D 400&message=AC&color=brightgreen)
-![](https://img.shields.io/static/v1?label=ABC179D 400&message=AC&color=brightgreen)
-![](https://img.shields.io/static/v1?label=ABC179C 300&message=AC&color=brightgreen)
-![](https://img.shields.io/static/v1?label=ABC179C 300&message=AC&color=brightgreen)
-![](https://img.shields.io/static/v1?label=ABC179D 0&message=TLE&color=yellow)
-![](https://img.shields.io/static/v1?label=ABC179F 600&message=AC&color=brightgreen)
-![](https://img.shields.io/static/v1?label=ABC179E 500&message=AC&color=brightgreen)
-![](https://img.shields.io/static/v1?label=ABC179E 0&message=WA&color=yellow)
-![](https://img.shields.io/static/v1?label=ABC179E 0&message=WA&color=yellow)
+![](https://img.shields.io/static/v1?label=ABC179F%20600&message=AC&color=brightgreen)
+![](https://img.shields.io/static/v1?label=ABC179D%20400&message=AC&color=brightgreen)
+![](https://img.shields.io/static/v1?label=ABC179D%20400&message=AC&color=brightgreen)
+![](https://img.shields.io/static/v1?label=ABC179C%20300&message=AC&color=brightgreen)
+![](https://img.shields.io/static/v1?label=ABC179C%20300&message=AC&color=brightgreen)
+![](https://img.shields.io/static/v1?label=ABC179D%200&message=TLE&color=yellow)
+![](https://img.shields.io/static/v1?label=ABC179F%20600&message=AC&color=brightgreen)
+![](https://img.shields.io/static/v1?label=ABC179E%20500&message=AC&color=brightgreen)
+![](https://img.shields.io/static/v1?label=ABC179E%200&message=WA&color=yellow)
+![](https://img.shields.io/static/v1?label=ABC179E%200&message=WA&color=yellow)
 
 <!--END_SECTION:custom_action-->
 
