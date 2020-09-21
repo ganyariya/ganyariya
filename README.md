@@ -38,11 +38,9 @@ $ docker run --rm ganariya/ganariya:ascii
 
 ## 🐾 Competitive Programming
 
-[![Badge](https://cp-logo.vercel.app/atcoder/ganariya2525)](https://atcoder.jp/users/ganariya2525) [![Badge](https://cp-logo.vercel.app/codeforces/ganariya)](https://codeforces.com/profile/ganariya) [![Badge](https://cp-logo.vercel.app/yukicoder/ganariya)](https://yukicoder.me/users/3037)
+#### Rating
 
-- ICPC Asia Reginal 2018
-- 第一回日本最強プログラマー学生選手権決勝
-- 第二回全国統一プログラミング王決定戦本戦
+[![Badge](https://cp-logo.vercel.app/atcoder/ganariya2525)](https://atcoder.jp/users/ganariya2525) [![Badge](https://cp-logo.vercel.app/codeforces/ganariya)](https://codeforces.com/profile/ganariya) [![Badge](https://cp-logo.vercel.app/yukicoder/ganariya)](https://yukicoder.me/users/3037)
 
 <!--START_SECTION:custom_action-->
 #### Recently Solved Problems
@@ -58,6 +56,11 @@ $ docker run --rm ganariya/ganariya:ascii
 [![Badge](https://img.shields.io/static/v1?label=ABC179E%200&message=WA&color=yellow)](https://atcoder.jp/contests/abc179/submissions/16882077)
 
 <!--END_SECTION:custom_action-->
+
+- ICPC Asia Reginal 2018
+- 第一回日本最強プログラマー学生選手権決勝
+- 第二回全国統一プログラミング王決定戦本戦
+
 
 ## 🐾 Links
 
