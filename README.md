@@ -44,6 +44,10 @@ $ docker run --rm ganariya/ganariya:ascii
 - 第一回日本最強プログラマー学生選手権決勝
 - 第二回全国統一プログラミング王決定戦本戦
 
+<!--START_SECTION:custom_action-->
+
+<!--END_SECTION:custom_action-->
+
 ## 🐾 Links
 
 - [Qiita](https://qiita.com/ganariya)
@@ -167,9 +171,5 @@ Please contribute anythings!
 
 
 
-
-<!--START_SECTION:custom_action-->
-
-<!--END_SECTION:custom_action-->
 
 
