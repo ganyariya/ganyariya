@@ -19,7 +19,7 @@ $ docker run --rm ganariya/ganariya:ascii
 - 💖 I'd like to give back to community, contents, and people through the power of technology.
 - 📞 Please feel free to ask me on Twitter or Email!
 
-## 🐾 Strategy & Profile
+## 🐾 Strategy & LookBack
 
 - [ganariya成長戦略2020](https://docs.google.com/presentation/d/1miXe07Y9XukI6bwbh8q4TjisLdw-n51e3prdmfTTCgY/edit)
 - [ganariyaLookBack](https://drive.google.com/drive/folders/16P73HK-dLVChC2ivkYosRIY9bT6VXmaC?usp=sharing)
