@@ -21,7 +21,7 @@ $ docker run --rm ganariya/ganariya:ascii
 
 ## 🐾 Strategy & LookBack
 
-- [ganariya成長戦略2020](https://docs.google.com/presentation/d/1miXe07Y9XukI6bwbh8q4TjisLdw-n51e3prdmfTTCgY/edit)
+- [ganariyaStrategy2020](https://docs.google.com/presentation/d/1miXe07Y9XukI6bwbh8q4TjisLdw-n51e3prdmfTTCgY/edit)
 - [ganariyaLookBack](https://drive.google.com/drive/folders/16P73HK-dLVChC2ivkYosRIY9bT6VXmaC?usp=sharing)
 
 ## 🐾 Qualification
@@ -60,13 +60,14 @@ $ docker run --rm ganariya/ganariya:ascii
 - ICPC Asia Reginal 2018
 - 第一回日本最強プログラマー学生選手権決勝
 - 第二回全国統一プログラミング王決定戦本戦
+- TopCoder Eastern Asia Regionals 2020
 
 
 ## 🐾 Links
 
 - [Qiita](https://qiita.com/ganariya)
-- [Hatena](https://ganariya.hatenablog.com/)
 - [Scrapbox(Competitive Programming)](https://scrapbox.io/ganariya/)
+- [Scrapbox(public)](https://scrapbox.io/ganariya/)
 - [Works](https://ganariya.github.io/works/)
 - [YouTube](https://www.youtube.com/channel/UCPTKMrRhOSf30v59Ktbpl1A)
 - [Twitter](https://twitter.com/ganariya)
