@@ -44,6 +44,7 @@ $ docker run --rm ganariya/ganariya:ascii
 
 <!--START_SECTION:custom_action-->
 #### Recently Solved Problems
+[![Badge](https://img.shields.io/static/v1?label=HHKB2020A%20100&message=AC&color=brightgreen)](https://atcoder.jp/contests/hhkb2020/submissions/17327719)
 [![Badge](https://img.shields.io/static/v1?label=HHKB2020D%20400&message=AC&color=brightgreen)](https://atcoder.jp/contests/hhkb2020/submissions/17310613)
 [![Badge](https://img.shields.io/static/v1?label=HHKB2020D%200&message=WA&color=yellow)](https://atcoder.jp/contests/hhkb2020/submissions/17310227)
 [![Badge](https://img.shields.io/static/v1?label=HHKB2020D%200&message=WA&color=yellow)](https://atcoder.jp/contests/hhkb2020/submissions/17309777)
@@ -53,7 +54,6 @@ $ docker run --rm ganariya/ganariya:ascii
 [![Badge](https://img.shields.io/static/v1?label=HHKB2020B%20200&message=AC&color=brightgreen)](https://atcoder.jp/contests/hhkb2020/submissions/17291974)
 [![Badge](https://img.shields.io/static/v1?label=HHKB2020A%20100&message=AC&color=brightgreen)](https://atcoder.jp/contests/hhkb2020/submissions/17288033)
 [![Badge](https://img.shields.io/static/v1?label=ARC104B%20400&message=AC&color=brightgreen)](https://atcoder.jp/contests/arc104/submissions/17184325)
-[![Badge](https://img.shields.io/static/v1?label=ARC104B%200&message=WA&color=yellow)](https://atcoder.jp/contests/arc104/submissions/17184317)
 
 <!--END_SECTION:custom_action-->
 
