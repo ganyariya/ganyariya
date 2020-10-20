@@ -91,17 +91,17 @@ $ docker run --rm ganariya/ganariya:ascii
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/ganariya/contributions.svg)](http://qiita.com/ganariya) [![My Qiita followers](https://qiita-badge.apiapi.app/s/ganariya/followers.svg)](http://qiita.com/ganariya) [![Commits Badge](https://badges.pufler.dev/commits/monthly/Ganariya)](https://github.com/Ganariya)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-165-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-162-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 744 Contributions in the Year 2020
+> 🏆 745 Contributions in the Year 2020
  > 
 > 📦 1.5 MB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 31 Public Repositories
+> 📜 32 Public Repositories
  > 
 > 🔑 10 Private Repositories 
 
@@ -134,13 +134,15 @@ Sunday       96 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 2 hrs 45 mins       ███████████░░░░░░░░░░░░░░   46.89% 
-Text                     1 hr 45 mins        ███████░░░░░░░░░░░░░░░░░░   29.93% 
-C++                      1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   23.18%
+Markdown                 2 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   36.77% 
+Text                     1 hr 45 mins        █████░░░░░░░░░░░░░░░░░░░░   23.47% 
+C                        1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   20.79% 
+C++                      1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.25% 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36%
 
 🔥 Editors: 
-VS Code                  4 hrs 30 mins       ███████████████████░░░░░░   76.82% 
-CLion                    1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   23.18%
+VS Code                  4 hrs 30 mins       ███████████████░░░░░░░░░░   60.24% 
+CLion                    2 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   39.76%
 
 ```
 
