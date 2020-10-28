@@ -91,7 +91,7 @@ $ docker run --rm ganariya/ganariya:ascii
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/ganariya/contributions.svg)](http://qiita.com/ganariya) [![My Qiita followers](https://qiita-badge.apiapi.app/s/ganariya/followers.svg)](http://qiita.com/ganariya) [![Commits Badge](https://badges.pufler.dev/commits/monthly/Ganariya)](https://github.com/Ganariya)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-74-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-75-blue)
 
 **🐱 My Github Data** 
 
@@ -134,16 +134,17 @@ Sunday       96 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-C++                      3 hrs 53 mins       ████████████████████░░░░░   81.33% 
+C++                      3 hrs 53 mins       ████████████████████░░░░░   81.32% 
 Python                   35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.36% 
-Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.17% 
+Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.18% 
 Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.42% 
 Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.33%
 
 🔥 Editors: 
-CLion                    4 hrs 4 mins        █████████████████████░░░░   85.16% 
+CLion                    4 hrs 4 mins        █████████████████████░░░░   85.15% 
 PyCharm                  38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.5% 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.33%
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.33% 
+Vim                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 ```
 
