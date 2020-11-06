@@ -91,7 +91,7 @@ $ docker run --rm ganariya/ganariya:ascii
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/ganariya/contributions.svg)](http://qiita.com/ganariya) [![My Qiita followers](https://qiita-badge.apiapi.app/s/ganariya/followers.svg)](http://qiita.com/ganariya) [![Commits Badge](https://badges.pufler.dev/commits/monthly/Ganariya)](https://github.com/Ganariya)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-63-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue)
 
 **🐱 My Github Data** 
 
@@ -134,10 +134,15 @@ Sunday       90 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      21 mins             ████████████████████████░   99.0% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.99% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01% 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  16 mins             ██████████████████░░░░░░░   74.03% 
+CLion                    5 mins              ██████░░░░░░░░░░░░░░░░░░░   25.97% 
+PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 
