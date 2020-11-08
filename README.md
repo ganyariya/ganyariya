@@ -44,16 +44,16 @@ $ docker run --rm ganariya/ganariya:ascii
 
 <!--START_SECTION:custom_action-->
 #### Recently Solved Problems
-[![Badge](https://img.shields.io/static/v1?label=ABC181C%20300&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc181/submissions/17856398)
-[![Badge](https://img.shields.io/static/v1?label=ABC181E%20500&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc181/submissions/17803268)
-[![Badge](https://img.shields.io/static/v1?label=ABC181D%20400&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc181/submissions/17793580)
-[![Badge](https://img.shields.io/static/v1?label=ABC181D%200&message=WA&color=yellow)](https://atcoder.jp/contests/abc181/submissions/17790969)
-[![Badge](https://img.shields.io/static/v1?label=ABC181C%20300&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc181/submissions/17787775)
-[![Badge](https://img.shields.io/static/v1?label=ABC181B%20200&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc181/submissions/17783660)
-[![Badge](https://img.shields.io/static/v1?label=ABC181A%20100&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc181/submissions/17779848)
-[![Badge](https://img.shields.io/static/v1?label=ARC107C%20500&message=AC&color=brightgreen)](https://atcoder.jp/contests/arc107/submissions/17771747)
-[![Badge](https://img.shields.io/static/v1?label=ARC107C%200&message=WA&color=yellow)](https://atcoder.jp/contests/arc107/submissions/17771745)
-[![Badge](https://img.shields.io/static/v1?label=ARC107A%20300&message=AC&color=brightgreen)](https://atcoder.jp/contests/arc107/submissions/17771707)
+[![Badge](https://img.shields.io/static/v1?label=FUTURECONTEST2021QUALA%20148238&message=AC&color=brightgreen)](https://atcoder.jp/contests/future-contest-2021-qual/submissions/17930714)
+[![Badge](https://img.shields.io/static/v1?label=FUTURECONTEST2021QUALA%20148073&message=AC&color=brightgreen)](https://atcoder.jp/contests/future-contest-2021-qual/submissions/17929890)
+[![Badge](https://img.shields.io/static/v1?label=FUTURECONTEST2021QUALA%20148230&message=AC&color=brightgreen)](https://atcoder.jp/contests/future-contest-2021-qual/submissions/17929664)
+[![Badge](https://img.shields.io/static/v1?label=FUTURECONTEST2021QUALA%20148094&message=AC&color=brightgreen)](https://atcoder.jp/contests/future-contest-2021-qual/submissions/17929233)
+[![Badge](https://img.shields.io/static/v1?label=FUTURECONTEST2021QUALA%20148100&message=AC&color=brightgreen)](https://atcoder.jp/contests/future-contest-2021-qual/submissions/17929017)
+[![Badge](https://img.shields.io/static/v1?label=FUTURECONTEST2021QUALA%20148087&message=AC&color=brightgreen)](https://atcoder.jp/contests/future-contest-2021-qual/submissions/17928766)
+[![Badge](https://img.shields.io/static/v1?label=FUTURECONTEST2021QUALA%20148131&message=AC&color=brightgreen)](https://atcoder.jp/contests/future-contest-2021-qual/submissions/17928345)
+[![Badge](https://img.shields.io/static/v1?label=FUTURECONTEST2021QUALA%20138016&message=AC&color=brightgreen)](https://atcoder.jp/contests/future-contest-2021-qual/submissions/17925727)
+[![Badge](https://img.shields.io/static/v1?label=FUTURECONTEST2021QUALA%20138680&message=AC&color=brightgreen)](https://atcoder.jp/contests/future-contest-2021-qual/submissions/17925327)
+[![Badge](https://img.shields.io/static/v1?label=FUTURECONTEST2021QUALA%200&message=TLE&color=yellow)](https://atcoder.jp/contests/future-contest-2021-qual/submissions/17923635)
 
 <!--END_SECTION:custom_action-->
 
