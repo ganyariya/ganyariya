@@ -44,16 +44,16 @@ $ docker run --rm ganariya/ganariya:ascii
 
 <!--START_SECTION:custom_action-->
 #### Recently Solved Problems
-[![Badge](https://img.shields.io/static/v1?label=ABC182E%20500&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc182/submissions/17969877)
-[![Badge](https://img.shields.io/static/v1?label=ABC182D%20400&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc182/submissions/17964169)
-[![Badge](https://img.shields.io/static/v1?label=ABC182C%20300&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc182/submissions/17960494)
-[![Badge](https://img.shields.io/static/v1?label=ABC182B%20200&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc182/submissions/17953863)
-[![Badge](https://img.shields.io/static/v1?label=ABC182A%20100&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc182/submissions/17949018)
-[![Badge](https://img.shields.io/static/v1?label=FUTURECONTEST2021QUALA%20148238&message=AC&color=brightgreen)](https://atcoder.jp/contests/future-contest-2021-qual/submissions/17930714)
-[![Badge](https://img.shields.io/static/v1?label=FUTURECONTEST2021QUALA%20148073&message=AC&color=brightgreen)](https://atcoder.jp/contests/future-contest-2021-qual/submissions/17929890)
-[![Badge](https://img.shields.io/static/v1?label=FUTURECONTEST2021QUALA%20148230&message=AC&color=brightgreen)](https://atcoder.jp/contests/future-contest-2021-qual/submissions/17929664)
-[![Badge](https://img.shields.io/static/v1?label=FUTURECONTEST2021QUALA%20148094&message=AC&color=brightgreen)](https://atcoder.jp/contests/future-contest-2021-qual/submissions/17929233)
-[![Badge](https://img.shields.io/static/v1?label=FUTURECONTEST2021QUALA%20148100&message=AC&color=brightgreen)](https://atcoder.jp/contests/future-contest-2021-qual/submissions/17929017)
+[![Badge](https://img.shields.io/static/v1?label=PAST202010K%206&message=AC&color=brightgreen)](https://atcoder.jp/contests/past202010-open/submissions/18016549)
+[![Badge](https://img.shields.io/static/v1?label=PAST202010K%200&message=WA&color=yellow)](https://atcoder.jp/contests/past202010-open/submissions/18016506)
+[![Badge](https://img.shields.io/static/v1?label=PAST202010J%206&message=AC&color=brightgreen)](https://atcoder.jp/contests/past202010-open/submissions/18015961)
+[![Badge](https://img.shields.io/static/v1?label=PAST202010J%200&message=WA&color=yellow)](https://atcoder.jp/contests/past202010-open/submissions/18015920)
+[![Badge](https://img.shields.io/static/v1?label=PAST202010I%206&message=AC&color=brightgreen)](https://atcoder.jp/contests/past202010-open/submissions/18015534)
+[![Badge](https://img.shields.io/static/v1?label=PAST202010H%206&message=AC&color=brightgreen)](https://atcoder.jp/contests/past202010-open/submissions/18014865)
+[![Badge](https://img.shields.io/static/v1?label=PAST202010G%206&message=AC&color=brightgreen)](https://atcoder.jp/contests/past202010-open/submissions/18014727)
+[![Badge](https://img.shields.io/static/v1?label=PAST202010F%207&message=AC&color=brightgreen)](https://atcoder.jp/contests/past202010-open/submissions/18014360)
+[![Badge](https://img.shields.io/static/v1?label=PAST202010E%207&message=AC&color=brightgreen)](https://atcoder.jp/contests/past202010-open/submissions/18014292)
+[![Badge](https://img.shields.io/static/v1?label=PAST202010D%207&message=AC&color=brightgreen)](https://atcoder.jp/contests/past202010-open/submissions/18014230)
 
 <!--END_SECTION:custom_action-->
 
