@@ -32,9 +32,9 @@ $ docker run --rm ganariya/ganariya:ascii
 
 #### 🐾 Intern
 
-- freee Summer Internship
-- いい生活 Long-term internship
-
+- freee Summer Internship 2020
+- いい生活 Long-term Internship
+- VOYAGE GROUP Sunrise Internship 2020
 
 ## 🐾 Competitive Programming
 
@@ -57,11 +57,11 @@ $ docker run --rm ganariya/ganariya:ascii
 
 <!--END_SECTION:custom_action-->
 
-- ICPC Asia Reginal 2018
+- ICPC Asia Yokohama Regional 2018
 - 第一回日本最強プログラマー学生選手権決勝
 - 第二回全国統一プログラミング王決定戦本戦
 - TopCoder Eastern Asia Regionals 2020
-
+- ICPC Asia Yokohama Regional 2020
 
 ## 🐾 Links
 
