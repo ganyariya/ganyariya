@@ -66,7 +66,7 @@ $ docker run --rm ganariya/ganariya:ascii
 ## 🐾 Links
 
 - [Qiita](https://qiita.com/ganariya)
-- [Scrapbox(Competitive Programming)](https://scrapbox.io/ganariya/)
+- [Scrapbox(Competitive Programming)](https://scrapbox.io/ganariya-competitive/)
 - [Scrapbox(public)](https://scrapbox.io/ganariya-public/)
 - [Works](https://ganariya.github.io/works/)
 - [YouTube](https://www.youtube.com/channel/UCPTKMrRhOSf30v59Ktbpl1A)
