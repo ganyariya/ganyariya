@@ -91,17 +91,17 @@ $ docker run --rm ganariya/ganariya:ascii
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/ganariya/contributions.svg)](http://qiita.com/ganariya) [![My Qiita followers](https://qiita-badge.apiapi.app/s/ganariya/followers.svg)](http://qiita.com/ganariya) [![Commits Badge](https://badges.pufler.dev/commits/monthly/Ganariya)](https://github.com/Ganariya)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-65-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue)
 
 **🐱 My Github Data** 
 
-> 📦 1.5 MB Used in Github's Storage 
+> 📦 1.6 MB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 38 Public Repositories
+> 📜 37 Public Repositories
  > 
-> 🔑 10 Private Repositories 
+> 🔑 11 Private Repositories 
 
 **I'm an Early 🐤** 
 
@@ -132,16 +132,16 @@ Sunday       91 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   14 hrs 26 mins      ████████████████░░░░░░░░░   66.18% 
-C++                      5 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   26.87% 
-Markdown                 38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.94% 
-Other                    31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.38% 
-Text                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.19%
+Python                   16 hrs 28 mins      ████████████████░░░░░░░░░   66.69% 
+C++                      5 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   20.89% 
+Other                    1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.48% 
+Markdown                 38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.61% 
+Text                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.93%
 
 🔥 Editors: 
-PyCharm                  15 hrs 19 mins      █████████████████░░░░░░░░   70.2% 
-CLion                    5 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   27.05% 
-VS Code                  36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.75%
+PyCharm                  18 hrs 53 mins      ███████████████████░░░░░░   76.51% 
+CLion                    5 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   21.05% 
+VS Code                  36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.45%
 
 ```
 
