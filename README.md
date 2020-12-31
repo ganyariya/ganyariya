@@ -14,14 +14,14 @@ $ docker run --rm ganariya/ganariya:ascii
   <img src="https://media1.tenor.com/images/231ed5e3ad49ebbfd3770031cc1b3f75/tenor.gif?itemid=7432079"/>
 </div>
 
-- 🏫 I'm a student at the University of Tsukuba in japan.
-- 🌱 I'm interested in competitive programming, evolutionary computation, team develpment, and backend.
-- 💖 I'd like to give back to community, contents, and people through the power of technology.
+- 🏫 I'm a student at the University of Tsukuba in Japan.
+- 🌱 I'm interested in competitive programming, evolutionary computation, team development, and backend.
+- 💖 I'd like to give back to communities, contents, and people through the power of technology.
 - 📞 Please feel free to ask me on Twitter or Email!
 
 ## 🐾 Strategy & LookBack
 
-- [ganariyaStrategy2020](https://docs.google.com/presentation/d/1miXe07Y9XukI6bwbh8q4TjisLdw-n51e3prdmfTTCgY/edit)
+- [ganariyaStrategy2021](https://docs.google.com/presentation/d/1K4m_vTmV9x2ZvDPesYVIBST0K_h1jNjBMLhQwkdlSCQ)
 - [ganariyaLookBack](https://drive.google.com/drive/folders/16P73HK-dLVChC2ivkYosRIY9bT6VXmaC?usp=sharing)
 
 ## 🐾 Qualification
@@ -66,8 +66,9 @@ $ docker run --rm ganariya/ganariya:ascii
 ## 🐾 Links
 
 - [Qiita](https://qiita.com/ganariya)
+- [Zenn](https://zenn.dev/ganariya)
 - [Scrapbox(Competitive Programming)](https://scrapbox.io/ganariya-competitive/)
-- [Scrapbox(public)](https://scrapbox.io/ganariya-public/)
+- [Scrapbox(Public)](https://scrapbox.io/ganariya-public/)
 - [Works](https://ganariya.github.io/works/)
 - [YouTube](https://www.youtube.com/channel/UCPTKMrRhOSf30v59Ktbpl1A)
 - [Twitter](https://twitter.com/ganariya)
@@ -88,7 +89,7 @@ $ docker run --rm ganariya/ganariya:ascii
 
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/ganariya/posts.svg)](http://qiita.com/ganariya) 
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/ganariya/contributions.svg)](http://qiita.com/ganariya) [![My Qiita followers](https://qiita-badge.apiapi.app/s/ganariya/followers.svg)](http://qiita.com/ganariya) [![Commits Badge](https://badges.pufler.dev/commits/monthly/Ganariya)](https://github.com/Ganariya)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/ganariya/contributions.svg)](http://qiita.com/ganariya) [![My Qiita followers](https://qiita-badge.apiapi.app/s/ganariya/followers.svg)](http://qiita.com/ganariya)
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue)
@@ -167,7 +168,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-## 🐾 Contiributes
+## 🐾 Contiributors
 
 Thanks to all contributors 🎉
 Please contribute anythings!
