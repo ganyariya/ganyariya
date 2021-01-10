@@ -44,6 +44,9 @@ $ docker run --rm ganariya/ganariya:ascii
 
 <!--START_SECTION:custom_action-->
 #### Recently Solved Problems
+[![Badge](https://img.shields.io/static/v1?label=ARC111A%20300&message=AC&color=brightgreen)](https://atcoder.jp/contests/arc111/submissions/19302446)
+[![Badge](https://img.shields.io/static/v1?label=ARC111A%20300&message=AC&color=brightgreen)](https://atcoder.jp/contests/arc111/submissions/19302422)
+[![Badge](https://img.shields.io/static/v1?label=ARC111B%20400&message=AC&color=brightgreen)](https://atcoder.jp/contests/arc111/submissions/19301348)
 [![Badge](https://img.shields.io/static/v1?label=PAKENCAMP2020DAY1H%200&message=WA&color=yellow)](https://atcoder.jp/contests/pakencamp-2020-day1/submissions/19226949)
 [![Badge](https://img.shields.io/static/v1?label=PAKENCAMP2020DAY1H%200&message=WA&color=yellow)](https://atcoder.jp/contests/pakencamp-2020-day1/submissions/19226923)
 [![Badge](https://img.shields.io/static/v1?label=PAKENCAMP2020DAY1G%20300&message=AC&color=brightgreen)](https://atcoder.jp/contests/pakencamp-2020-day1/submissions/19226662)
@@ -51,9 +54,6 @@ $ docker run --rm ganariya/ganariya:ascii
 [![Badge](https://img.shields.io/static/v1?label=PAKENCAMP2020DAY1E%20300&message=AC&color=brightgreen)](https://atcoder.jp/contests/pakencamp-2020-day1/submissions/19226351)
 [![Badge](https://img.shields.io/static/v1?label=PAKENCAMP2020DAY1E%200&message=WA&color=yellow)](https://atcoder.jp/contests/pakencamp-2020-day1/submissions/19226294)
 [![Badge](https://img.shields.io/static/v1?label=PAKENCAMP2020DAY1E%200&message=WA&color=yellow)](https://atcoder.jp/contests/pakencamp-2020-day1/submissions/19226276)
-[![Badge](https://img.shields.io/static/v1?label=PAKENCAMP2020DAY1E%200&message=WA&color=yellow)](https://atcoder.jp/contests/pakencamp-2020-day1/submissions/19226264)
-[![Badge](https://img.shields.io/static/v1?label=PAKENCAMP2020DAY1E%200&message=WA&color=yellow)](https://atcoder.jp/contests/pakencamp-2020-day1/submissions/19226151)
-[![Badge](https://img.shields.io/static/v1?label=PAKENCAMP2020DAY1C%20200&message=AC&color=brightgreen)](https://atcoder.jp/contests/pakencamp-2020-day1/submissions/19225901)
 
 <!--END_SECTION:custom_action-->
 
