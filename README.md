@@ -44,16 +44,16 @@ $ docker run --rm ganariya/ganariya:ascii
 
 <!--START_SECTION:custom_action-->
 #### Recently Solved Problems
+[![Badge](https://img.shields.io/static/v1?label=ABC188E%20500&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc188/submissions/19340080)
+[![Badge](https://img.shields.io/static/v1?label=ABC188D%20400&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc188/submissions/19336157)
+[![Badge](https://img.shields.io/static/v1?label=ABC188C%20300&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc188/submissions/19323011)
+[![Badge](https://img.shields.io/static/v1?label=ABC188B%20200&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc188/submissions/19314072)
+[![Badge](https://img.shields.io/static/v1?label=ABC188A%20100&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc188/submissions/19312085)
 [![Badge](https://img.shields.io/static/v1?label=ARC111A%20300&message=AC&color=brightgreen)](https://atcoder.jp/contests/arc111/submissions/19302446)
 [![Badge](https://img.shields.io/static/v1?label=ARC111A%20300&message=AC&color=brightgreen)](https://atcoder.jp/contests/arc111/submissions/19302422)
 [![Badge](https://img.shields.io/static/v1?label=ARC111B%20400&message=AC&color=brightgreen)](https://atcoder.jp/contests/arc111/submissions/19301348)
 [![Badge](https://img.shields.io/static/v1?label=PAKENCAMP2020DAY1H%200&message=WA&color=yellow)](https://atcoder.jp/contests/pakencamp-2020-day1/submissions/19226949)
 [![Badge](https://img.shields.io/static/v1?label=PAKENCAMP2020DAY1H%200&message=WA&color=yellow)](https://atcoder.jp/contests/pakencamp-2020-day1/submissions/19226923)
-[![Badge](https://img.shields.io/static/v1?label=PAKENCAMP2020DAY1G%20300&message=AC&color=brightgreen)](https://atcoder.jp/contests/pakencamp-2020-day1/submissions/19226662)
-[![Badge](https://img.shields.io/static/v1?label=PAKENCAMP2020DAY1F%20300&message=AC&color=brightgreen)](https://atcoder.jp/contests/pakencamp-2020-day1/submissions/19226462)
-[![Badge](https://img.shields.io/static/v1?label=PAKENCAMP2020DAY1E%20300&message=AC&color=brightgreen)](https://atcoder.jp/contests/pakencamp-2020-day1/submissions/19226351)
-[![Badge](https://img.shields.io/static/v1?label=PAKENCAMP2020DAY1E%200&message=WA&color=yellow)](https://atcoder.jp/contests/pakencamp-2020-day1/submissions/19226294)
-[![Badge](https://img.shields.io/static/v1?label=PAKENCAMP2020DAY1E%200&message=WA&color=yellow)](https://atcoder.jp/contests/pakencamp-2020-day1/submissions/19226276)
 
 <!--END_SECTION:custom_action-->
 
