@@ -94,6 +94,8 @@ $ docker run --rm ganariya/ganariya:ascii
 ![ganariya-followers](https://zenn-badge.ganariya.vercel.app/ganariya/followers)
 ![ganariya-articles](https://zenn-badge.ganariya.vercel.app/ganariya/articles)
 
+---
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-76-blue)
 
