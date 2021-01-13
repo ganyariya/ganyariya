@@ -89,7 +89,10 @@ $ docker run --rm ganariya/ganariya:ascii
 
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/ganariya/posts.svg)](http://qiita.com/ganariya) 
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/ganariya/contributions.svg)](http://qiita.com/ganariya) [![My Qiita followers](https://qiita-badge.apiapi.app/s/ganariya/followers.svg)](http://qiita.com/ganariya)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/ganariya/contributions.svg)](http://qiita.com/ganariya) [![My Qiita followers](https://qiita-badge.apiapi.app/s/ganariya/followers.svg)](http://qiita.com/ganariya)  
+![ganariya-liked](https://zenn-badge.ganariya.vercel.app/ganariya/liked)
+![ganariya-followers](https://zenn-badge.ganariya.vercel.app/ganariya/followers)
+![ganariya-articles](https://zenn-badge.ganariya.vercel.app/ganariya/articles)
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-76-blue)
