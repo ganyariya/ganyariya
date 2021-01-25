@@ -44,6 +44,7 @@ $ docker run --rm ganariya/ganariya:ascii
 
 <!--START_SECTION:custom_action-->
 #### Recently Solved Problems
+[![Badge](https://img.shields.io/static/v1?label=ABC189C%20300&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc189/submissions/19683994)
 [![Badge](https://img.shields.io/static/v1?label=ABC189D%20400&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc189/submissions/19664775)
 [![Badge](https://img.shields.io/static/v1?label=ABC189C%20300&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc189/submissions/19664613)
 [![Badge](https://img.shields.io/static/v1?label=ABC189B%20200&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc189/submissions/19664337)
@@ -53,7 +54,6 @@ $ docker run --rm ganariya/ganariya:ascii
 [![Badge](https://img.shields.io/static/v1?label=KEYENCE2021B%20400&message=AC&color=brightgreen)](https://atcoder.jp/contests/keyence2021/submissions/19487213)
 [![Badge](https://img.shields.io/static/v1?label=KEYENCE2021B%200&message=RE&color=yellow)](https://atcoder.jp/contests/keyence2021/submissions/19487198)
 [![Badge](https://img.shields.io/static/v1?label=KEYENCE2021A%20300&message=AC&color=brightgreen)](https://atcoder.jp/contests/keyence2021/submissions/19487045)
-[![Badge](https://img.shields.io/static/v1?label=KEYENCE2021B%20400&message=AC&color=brightgreen)](https://atcoder.jp/contests/keyence2021/submissions/19464339)
 
 <!--END_SECTION:custom_action-->
 
