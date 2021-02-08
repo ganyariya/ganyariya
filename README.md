@@ -97,7 +97,7 @@ $ docker run --rm ganariya/ganariya:ascii
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-80-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-77-blue)
 
 **🐱 My Github Data** 
 
