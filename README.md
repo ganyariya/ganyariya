@@ -8,11 +8,11 @@ $ docker run --rm ganariya/ganariya:ascii
  |___/                          |___/
 ```
 
----
+<!-- --- -->
 
 <h1 align="center">
 Hello, ganariya!
-<img src="https://github.com/Ganariya/Ganariya/blob/master/ganariya.png?raw=true" height="26px" alt="ganariya"/>
+<img src="https://github.com/Ganariya/Ganariya/blob/master/ganariya.png?raw=true" height="30px" alt="ganariya"/>
 </h1>
 
 <div align="center">
@@ -41,11 +41,9 @@ Hello, ganariya!
 
 </div>
 
-<!-- <div align="center">
-  <img src="https://media1.tenor.com/images/231ed5e3ad49ebbfd3770031cc1b3f75/tenor.gif?itemid=7432079"/>
-</div> -->
 
-<img align="right" width="50%" src="https://media1.tenor.com/images/231ed5e3ad49ebbfd3770031cc1b3f75/tenor.gif?itemid=7432079"/>
+
+<img align="right" width="30%" src="https://media1.tenor.com/images/231ed5e3ad49ebbfd3770031cc1b3f75/tenor.gif?itemid=7432079"/>
 
 - 🏫 I'm a student at the University of Tsukuba in Japan.
 - 🌱 I'm interested in competitive programming, evolutionary computation, team development, and backend.
