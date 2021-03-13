@@ -1,12 +1,3 @@
-```bash
-$ docker run --rm ganariya/ganariya:ascii
-
-  __ _  __ _ _ __   __ _ _ __(_)_   _  __ _
- / _` |/ _` | '_ \ / _` | '__| | | | |/ _` |
-| (_| | (_| | | | | (_| | |  | | |_| | (_| |
- \__, |\__,_|_| |_|\__,_|_|  |_|\__, |\__,_|
- |___/                          |___/
-```
 
 <!-- --- -->
 
@@ -49,6 +40,17 @@ Hello, ganariya!
 - 🌱 I'm interested in competitive programming, evolutionary computation, team development, and backend.
 - 💖 I'd like to give back to communities, contents, and people through the power of technology.
 - 📞 Please feel free to ask me on Twitter or Email!
+
+```bash
+$ docker run --rm ganariya/ganariya:ascii
+
+  __ _  __ _ _ __   __ _ _ __(_)_   _  __ _
+ / _` |/ _` | '_ \ / _` | '__| | | | |/ _` |
+| (_| | (_| | | | | (_| | |  | | |_| | (_| |
+ \__, |\__,_|_| |_|\__,_|_|  |_|\__, |\__,_|
+ |___/                          |___/
+```
+
 
 ---
 
