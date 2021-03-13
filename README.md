@@ -32,14 +32,14 @@
 
 </div>
 
-<img align="right" width="30%" src="https://media1.tenor.com/images/03b05bb461bfae7bff76a463c39f734c/tenor.gif?itemid=10034397"/>
+<img align="left" src="https://media1.tenor.com/images/03b05bb461bfae7bff76a463c39f734c/tenor.gif?itemid=10034397"/>
 
 - 🏫 I'm a student at the University of Tsukuba in Japan.
 - 🌱 I'm interested in competitive programming, evolutionary computation, team development, and backend.
 - 💖 I'd like to give back to communities, contents, and people through the power of technology.
 - 📞 Please feel free to ask me on Twitter or Email!
 
-```bash
+<!-- ```bash
 $ docker run --rm ganariya/ganariya:ascii
 
   __ _  __ _ _ __   __ _ _ __(_)_   _  __ _
@@ -47,7 +47,7 @@ $ docker run --rm ganariya/ganariya:ascii
 | (_| | (_| | | | | (_| | |  | | |_| | (_| |
  \__, |\__,_|_| |_|\__,_|_|  |_|\__, |\__,_|
  |___/                          |___/
-```
+``` -->
 
 
 ---
