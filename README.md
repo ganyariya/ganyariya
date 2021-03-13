@@ -123,7 +123,7 @@ $ docker run --rm ganariya/ganariya:ascii
 
 <img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ganariya&theme=dark" alt="ganariya" />
 
-<img align="right" width=""50% src="https://github-readme-stats.vercel.app/api?username=Ganariya&count_private=true&show_icons=true&theme=dracula" alt="ganariya" />
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Ganariya&count_private=true&show_icons=true&theme=dracula" alt="ganariya" />
 
 <!-- START_SECTION:waka-noe -->
 <!-- END_SECTION:waka-noe -->
