@@ -8,32 +8,51 @@ $ docker run --rm ganariya/ganariya:ascii
  |___/                          |___/
 ```
 
-<h1 align="center">
-Hello, Wolrd! <img src="https://github.com/Ganariya/Ganariya/blob/master/ganariya.png?raw=true" height="1.6rem" alt="ganariya"/>
-</h1>
-
 ---
 
-<!-- 
-```bash
-$ docker run --rm ganariya/ganariya:ascii
+<h1 align="center">
+Hello, ganariya!
+<img src="https://github.com/Ganariya/Ganariya/blob/master/ganariya.png?raw=true" height="26px" alt="ganariya"/>
+</h1>
 
-  __ _  __ _ _ __   __ _ _ __(_)_   _  __ _
- / _` |/ _` | '_ \ / _` | '__| | | | |/ _` |
-| (_| | (_| | | | | (_| | |  | | |_| | (_| |
- \__, |\__,_|_| |_|\__,_|_|  |_|\__, |\__,_|
- |___/                          |___/
+<div align="center">
 
-``` -->
+<a href="https://github.com/Ganariya" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&amp;logo=github&amp;logoColor=white">
+</a>
+<a href="http://qiita.com/ganariya" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/-Qiita-55C500?style=flat&amp;logo=qiita&amp;logoColor=white">
+</a>
+<a href="https://zenn.dev/ganariya" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/-Zenn-3EA8FF?style=flat&logo=zenn&logoColor=white">
+</a>
+<a href="https://ganariya.hatenablog.com" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/-Blog-9F55FF?style=flat&amp;logo=blogger&amp;logoColor=white">
+</a>
+<a href="https://twitter.com/ganariya" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&amp;logo=twitter&amp;logoColor=white">
+</a>
+<a href="https://www.youtube.com/channel/UCPTKMrRhOSf30v59Ktbpl1A" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&amp;logo=youtube&amp;logoColor=white">
+</a>
+<a href="https://www.amazon.co.jp/hz/wishlist/ls/7297J1ZN3DSH" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/-Amazon-FF9900?style=flat&amp;logo=amazon&amp;logoColor=white">
+</a>
+
+</div>
 
 <div align="center">
   <img src="https://media1.tenor.com/images/231ed5e3ad49ebbfd3770031cc1b3f75/tenor.gif?itemid=7432079"/>
 </div>
 
+<img align="right" width="50%" src="https://media1.tenor.com/images/231ed5e3ad49ebbfd3770031cc1b3f75/tenor.gif?itemid=7432079"/>
+
 - 🏫 I'm a student at the University of Tsukuba in Japan.
 - 🌱 I'm interested in competitive programming, evolutionary computation, team development, and backend.
 - 💖 I'd like to give back to communities, contents, and people through the power of technology.
 - 📞 Please feel free to ask me on Twitter or Email!
+
+---
 
 ## 🐾 Strategy & LookBack
 
