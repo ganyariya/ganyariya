@@ -34,13 +34,11 @@
 
 <div>
 
-
-<img align="right" width="20%" src="https://media1.tenor.com/images/231ed5e3ad49ebbfd3770031cc1b3f75/tenor.gif?itemid=7432079"/>
+<img align="right" width="30%" src="https://media1.tenor.com/images/231ed5e3ad49ebbfd3770031cc1b3f75/tenor.gif?itemid=7432079"/>
 
 - 🏫 I'm a student at the University of Tsukuba in Japan.
-- 🌱 I'm interested in competitive programming, evolutionary computation, team development, and backend.
-- 💖 I'd like to give back to communities, contents, and people through the power of technology.
-- 📞 Please feel free to ask me on Twitter or Email!
+- 🌱 I'm interested in competitive programming, artificial intelligence, team development, and backend.
+- 📞 Please feel free to ask me on Twitter!
 
 ```bash
 $ docker run --rm ganariya/ganariya:ascii
