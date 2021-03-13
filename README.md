@@ -1,5 +1,4 @@
 
-<!-- --- -->
 
 <h1 align="center">
   Hello, ganariya!
@@ -25,6 +24,12 @@
   </a>
   <a href="https://www.youtube.com/channel/UCPTKMrRhOSf30v59Ktbpl1A" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&amp;logo=youtube&amp;logoColor=white">
+  </a>
+  <a href="https://docs.google.com/presentation/d/1K4m_vTmV9x2ZvDPesYVIBST0K_h1jNjBMLhQwkdlSCQ/edit#slide=id.p" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/-GoogleSlide-4285F4?style=flat&amp;logo=google&amp;logoColor=white">
+  </a>
+  <a href="https://drive.google.com/drive/folders/16P73HK-dLVChC2ivkYosRIY9bT6VXmaC" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/-GoogleDrive-4285F4?style=flat&amp;logo=drive&amp;logoColor=white">
   </a>
   <a href="https://www.amazon.co.jp/hz/wishlist/ls/7297J1ZN3DSH" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/-Amazon-FF9900?style=flat&amp;logo=amazon&amp;logoColor=white">
@@ -56,28 +61,26 @@ $ docker run --rm ganariya/ganariya:ascii
 
 ---
 
-## 🐾 Strategy & LookBack
+## 🐾  Qualification
 
-- [ganariyaStrategy2021](https://docs.google.com/presentation/d/1K4m_vTmV9x2ZvDPesYVIBST0K_h1jNjBMLhQwkdlSCQ)
-- [ganariyaLookBack](https://drive.google.com/drive/folders/16P73HK-dLVChC2ivkYosRIY9bT6VXmaC?usp=sharing)
+<img align="right" width="40%" src="https://media1.tenor.com/images/afe5d5f3de26692f8409c12b6cb06d76/tenor.gif?itemid=11233523">
 
-## 🐾 Qualification
+  - TOEIC: 925
+  - Fundamental Information Technology Engineer Examination
+  - Applied Information Technology Engineer Examination
+  ###  🐾  Intern
 
-- TOEIC: 925
-- Fundamental Information Technology Engineer Examination　
-- Applied Information Technology Engineer Examination
-
-#### 🐾 Intern
-
-- freee Summer Internship 2020
-- いい生活 Long-term Internship
-- VOYAGE GROUP Sunrise Internship 2020
+  - freee Summer Internship 2020
+  - いい生活 Long-term Internship
+  - VOYAGE GROUP Sunrise Internship 2020
 
 ## 🐾 Competitive Programming
 
+<img align="right" width="40%" src="https://media.tenor.com/images/8ea1590f6cf3d7ce64dc430d1cf5866a/tenor.gif">
+
 #### Rating
 
-[![Badge](https://cp-logo.vercel.app/atcoder/ganariya2525)](https://atcoder.jp/users/ganariya2525) [![Badge](https://cp-logo.vercel.app/codeforces/ganariya)](https://codeforces.com/profile/ganariya) [![Badge](https://cp-logo.vercel.app/yukicoder/ganariya)](https://yukicoder.me/users/3037)
+[![Badge](https://cp-logo.vercel.app/atcoder/ganariya2525)](https://atcoder.jp/users/ganariya2525) [![Badge](https://cp-logo.vercel.app/codeforces/ganariya)](https://codeforces.com/profile/ganariya) [![Badge](https://cp-logo.vercel.app/yukicoder/ganariya)](https://yukicoder.me/users/3037)[![Badge](https://cp-logo.vercel.app/topcoder/ganariya)](https://tco20.topcoder.com/members/ganariya/) 
 
 <!--START_SECTION:custom_action-->
 #### Recently Solved Problems
@@ -98,7 +101,8 @@ $ docker run --rm ganariya/ganariya:ascii
 - 第一回日本最強プログラマー学生選手権決勝 2019
 - 第二回全国統一プログラミング王決定戦本戦 2019
 - TopCoder Eastern Asia Regionals 2020
-- ICPC Asia Yokohama Regional 2020 (Planned)
+- ICPC Asia Yokohama Regional 2020
+- DDCC 2021
 
 ## 🐾 Links
 
