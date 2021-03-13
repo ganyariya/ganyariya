@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/-GoogleSlide-4285F4?style=flat&amp;logo=google&amp;logoColor=white">
   </a>
   <a href="https://drive.google.com/drive/folders/16P73HK-dLVChC2ivkYosRIY9bT6VXmaC" target="_blank" rel="noopener">
-  <img src="https://img.shields.io/badge/-GoogleDrive-4285F4?style=flat&amp;logo=google drive&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/-GoogleDrive-4285F4?style=flat&amp;logo=google&amp;drive&amp;logoColor=white">
   </a>
   <a href="https://www.amazon.co.jp/hz/wishlist/ls/7297J1ZN3DSH" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/-Amazon-FF9900?style=flat&amp;logo=amazon&amp;logoColor=white">
@@ -113,7 +113,7 @@ $ docker run --rm ganariya/ganariya:ascii
 - Virtual Youtuber
 - HipHop-Rap -->
 
-## 🐾 Properties
+## 🐾 Property
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/ganariya/posts.svg)](http://qiita.com/ganariya) 
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/ganariya/contributions.svg)](http://qiita.com/ganariya) [![My Qiita followers](https://qiita-badge.apiapi.app/s/ganariya/followers.svg)](http://qiita.com/ganariya)![ganariya-liked](https://zenn-badge.ganariya.vercel.app/ganariya/liked)![ganariya-followers](https://zenn-badge.ganariya.vercel.app/ganariya/followers)![ganariya-articles](https://zenn-badge.ganariya.vercel.app/ganariya/articles)
@@ -121,93 +121,13 @@ $ docker run --rm ganariya/ganariya:ascii
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/> <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/> <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/> <img alt="FastAPI" src="https://img.shields.io/badge/fastapi%20-%2313988a.svg?&style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjxzdmcKICAgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIgogICB4bWxuczpjYz0iaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvbnMjIgogICB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiCiAgIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgaWQ9InN2ZzgiCiAgIHZlcnNpb249IjEuMSIKICAgdmlld0JveD0iMCAwIDYuMzQ5OTk5OSA2LjM0OTk5OTkiCiAgIGhlaWdodD0iNi4zNDk5OTk5bW0iCiAgIHdpZHRoPSI2LjM0OTk5OTltbSI+CiAgPGRlZnMKICAgICBpZD0iZGVmczIiIC8+CiAgPG1ldGFkYXRhCiAgICAgaWQ9Im1ldGFkYXRhNSI+CiAgICA8cmRmOlJERj4KICAgICAgPGNjOldvcmsKICAgICAgICAgcmRmOmFib3V0PSIiPgogICAgICAgIDxkYzpmb3JtYXQ+aW1hZ2Uvc3ZnK3htbDwvZGM6Zm9ybWF0PgogICAgICAgIDxkYzp0eXBlCiAgICAgICAgICAgcmRmOnJlc291cmNlPSJodHRwOi8vcHVybC5vcmcvZGMvZGNtaXR5cGUvU3RpbGxJbWFnZSIgLz4KICAgICAgICA8ZGM6dGl0bGU+PC9kYzp0aXRsZT4KICAgICAgPC9jYzpXb3JrPgogICAgPC9yZGY6UkRGPgogIDwvbWV0YWRhdGE+CiAgPGcKICAgICB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODcuNTM5Mjg2LC04NC40MjYxOTEpIgogICAgIGlkPSJsYXllcjEiPgogICAgPHBhdGgKICAgICAgIGlkPSJwYXRoODE1IgogICAgICAgZD0ibSA4Ny41MzkyODYsODQuNDI2MTkxIGggNi4zNSB2IDYuMzUgaCAtNi4zNSB6IgogICAgICAgc3R5bGU9ImZpbGw6bm9uZTtzdHJva2Utd2lkdGg6MC4yNjQ1ODMzMiIgLz4KICAgIDxwYXRoCiAgICAgICBzdHlsZT0ic3Ryb2tlLXdpZHRoOjAuMjY0NTgzMzI7ZmlsbDojZmZmZmZmIgogICAgICAgaWQ9InBhdGg4MTciCiAgICAgICBkPSJtIDkwLjcxNDI4Niw4NC45NjA2NDkgYyAtMS40NTc4NTQsMCAtMi42NDA1NDIsMS4xODI2ODggLTIuNjQwNTQyLDIuNjQwNTQyIDAsMS40NTc4NTQgMS4xODI2ODgsMi42NDA1NDIgMi42NDA1NDIsMi42NDA1NDIgMS40NTc4NTQsMCAyLjY0MDU0MiwtMS4xODI2ODggMi42NDA1NDIsLTIuNjQwNTQyIDAsLTEuNDU3ODU0IC0xLjE4MjY4OCwtMi42NDA1NDIgLTIuNjQwNTQyLC0yLjY0MDU0MiB6IG0gLTAuMTM3NTgzLDQuNzU3MjA5IHYgLTEuNjU2MjkyIGggLTAuOTIwNzUgbCAxLjMyMjkxNiwtMi41NzcwNDIgdiAxLjY1NjI5MiBoIDAuODg2MzU0IHoiIC8+CiAgPC9nPgo8L3N2Zz4K"/> <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/> <img alt="Vercel" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/> <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/> <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/> <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img alt="Unity" src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/> 
 
 
+<div align="center">
+  
+![Metrics](https://metrics.lecoq.io/ganariya?template=classic&base.header=0&base.repositories=0&languages=1&languages.ignored=TeX%2CCSS%2CHTML%2CCMake&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FTokyo&config.animated=true)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganariya&theme=dark" alt="korosuke613" /></p>
+</div>
 <!-- ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Ganariya&count_private=true&show_icons=true&theme=dracula) -->
 
----
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 328 Contributions in the Year 2021
- > 
-> 📦 1.7 MB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 31 Public Repositories 
- > 
-> 🔑 19 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    49 commits     ███████████░░░░░░░░░░░░░░   46.67% 
-🌆 Daytime    29 commits     ███████░░░░░░░░░░░░░░░░░░   27.62% 
-🌃 Evening    27 commits     ██████░░░░░░░░░░░░░░░░░░░   25.71% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
-Tuesday      18 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.14% 
-Wednesday    17 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.19% 
-Thursday     13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.38% 
-Friday       9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.57% 
-Saturday     26 commits     ██████░░░░░░░░░░░░░░░░░░░   24.76% 
-Sunday       10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.52%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-TeX                      4 hrs 15 mins       ███████████████████████░░   92.12% 
-PostScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.85% 
-Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.8% 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.05% 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52%
-
-🔥 Editors: 
-VS Code                  4 hrs 35 mins       ████████████████████████░   99.11% 
-Vim                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.89%
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   18 repos            ██████████░░░░░░░░░░░░░░░   40.91% 
-JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-TeX                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.36% 
-PostScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.36% 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.82%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/Ganariya/Ganariya/master/charts/bar_graph.png) 
-
-
-<!--END_SECTION:waka-->
-
-<!-- 
-## 🐾 Contiributors
-
-Thanks to all contributors 🎉
-Please contribute anythings!
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/Ganariya"><img src="https://github.com/Ganariya/Ganariya/blob/master/ganariya.png?raw=true" width="100px;" alt="ganariya"/><br /><a href="https://github.com/Ganariya" title="Code">:octocat: </a></a></td>
-  </tr>
-</table>
+<!-- START_SECTION:waka-noe -->
+<!-- END_SECTION:waka-noe -->
