@@ -1,3 +1,19 @@
+```bash
+$ docker run --rm ganariya/ganariya:ascii
+
+  __ _  __ _ _ __   __ _ _ __(_)_   _  __ _
+ / _` |/ _` | '_ \ / _` | '__| | | | |/ _` |
+| (_| | (_| | | | | (_| | |  | | |_| | (_| |
+ \__, |\__,_|_| |_|\__,_|_|  |_|\__, |\__,_|
+ |___/                          |___/
+```
+
+<h1 align="center">
+Hello, Wolrd! <img src="https://github.com/Ganariya/Ganariya/blob/master/ganariya.png?raw=true" alt="ganariya"/>
+</h1>
+
+---
+
 <!-- 
 ```bash
 $ docker run --rm ganariya/ganariya:ascii
