@@ -76,7 +76,7 @@ $ docker run --rm ganariya/ganariya:ascii
 
 ## 🐾 Competitive Programming
 
-<img align="right" width="40%" src="https://media.tenor.com/images/8ea1590f6cf3d7ce64dc430d1cf5866a/tenor.gif">
+<img align="right" width="40%" src="https://media.tenor.com/images/7703288bab94643b1476740126c8d43d/tenor.gif">
 
 #### Rating
 
