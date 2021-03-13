@@ -201,6 +201,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+<!-- 
 ## 🐾 Contiributors
 
 Thanks to all contributors 🎉
@@ -211,11 +212,3 @@ Please contribute anythings!
     <td align="center"><a href="https://github.com/Ganariya"><img src="https://github.com/Ganariya/Ganariya/blob/master/ganariya.png?raw=true" width="100px;" alt="ganariya"/><br /><a href="https://github.com/Ganariya" title="Code">:octocat: </a></a></td>
   </tr>
 </table>
-
-
-
-
-
-
-
-
