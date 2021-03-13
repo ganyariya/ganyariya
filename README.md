@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/-GoogleSlide-4285F4?style=flat&amp;logo=google&amp;logoColor=white">
   </a>
   <a href="https://drive.google.com/drive/folders/16P73HK-dLVChC2ivkYosRIY9bT6VXmaC" target="_blank" rel="noopener">
-  <img src="https://img.shields.io/badge/-GoogleDrive-4285F4?style=flat&amp;logo=drive&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/-GoogleDrive-4285F4?style=flat&amp;logo=google drive&amp;logoColor=white">
   </a>
   <a href="https://www.amazon.co.jp/hz/wishlist/ls/7297J1ZN3DSH" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/-Amazon-FF9900?style=flat&amp;logo=amazon&amp;logoColor=white">
@@ -76,7 +76,7 @@ $ docker run --rm ganariya/ganariya:ascii
 
 ## 🐾 Competitive Programming
 
-<img align="right" width="40%" src="https://media.tenor.com/images/7703288bab94643b1476740126c8d43d/tenor.gif">
+<img align="right" width="40%" src="https://media1.tenor.com/images/f7aaaa0e97da3e9b55f1e2e88c288237/tenor.gif?itemid=17194703">
 
 #### Rating
 
@@ -113,16 +113,18 @@ $ docker run --rm ganariya/ganariya:ascii
 - Virtual Youtuber
 - HipHop-Rap -->
 
-## 🐾 Status
-
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Ganariya&count_private=true&show_icons=true&theme=dracula)
-
+## 🐾 Properties
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/ganariya/posts.svg)](http://qiita.com/ganariya) 
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/ganariya/contributions.svg)](http://qiita.com/ganariya) [![My Qiita followers](https://qiita-badge.apiapi.app/s/ganariya/followers.svg)](http://qiita.com/ganariya)  
 ![ganariya-liked](https://zenn-badge.ganariya.vercel.app/ganariya/liked)
 ![ganariya-followers](https://zenn-badge.ganariya.vercel.app/ganariya/followers)
 ![ganariya-articles](https://zenn-badge.ganariya.vercel.app/ganariya/articles)
+
+
+<!-- ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Ganariya&count_private=true&show_icons=true&theme=dracula) -->
+
+
 
 ---
 
