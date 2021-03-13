@@ -9,7 +9,7 @@ $ docker run --rm ganariya/ganariya:ascii
 ```
 
 <h1 align="center">
-Hello, Wolrd! <img src="https://github.com/Ganariya/Ganariya/blob/master/ganariya.png?raw=true" alt="ganariya"/>
+Hello, Wolrd! <img src="https://github.com/Ganariya/Ganariya/blob/master/ganariya.png?raw=true" height="1.6rem" alt="ganariya"/>
 </h1>
 
 ---
