@@ -63,7 +63,7 @@ $ docker run --rm ganariya/ganariya:ascii
 
 ## 🐾  Qualification
 
-<img align="right" width="40%" src="https://media1.tenor.com/images/afe5d5f3de26692f8409c12b6cb06d76/tenor.gif?itemid=11233523">
+<img align="right" width="50%" src="https://media1.tenor.com/images/afe5d5f3de26692f8409c12b6cb06d76/tenor.gif?itemid=11233523">
 
   - TOEIC: 925
   - Fundamental Information Technology Engineer Examination
@@ -104,25 +104,14 @@ $ docker run --rm ganariya/ganariya:ascii
 - ICPC Asia Yokohama Regional 2020
 - DDCC 2021
 
-## 🐾 Links
-
-- [Qiita](https://qiita.com/ganariya)
-- [Zenn](https://zenn.dev/ganariya)
-- [Scrapbox(Competitive Programming)](https://scrapbox.io/ganariya-competitive/)
-- [Scrapbox(Public)](https://scrapbox.io/ganariya-public/)
-- [Works](https://ganariya.github.io/works/)
-- [YouTube](https://www.youtube.com/channel/UCPTKMrRhOSf30v59Ktbpl1A)
-- [Twitter](https://twitter.com/ganariya)
-- [Amazon-wishlist](https://www.amazon.co.jp/hz/wishlist/ls/7297J1ZN3DSH)
-
-## 🐾 Hobby
+<!-- ## 🐾 Hobby
 
 - Competitive Programming
 - Programming
 - Writing Tech Blog
 - Anime / NicoNico
 - Virtual Youtuber
-- HipHop-Rap
+- HipHop-Rap -->
 
 ## 🐾 Status
 
