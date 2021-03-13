@@ -32,7 +32,7 @@
 
 </div>
 
-<img align="right"  src="https://media1.tenor.com/images/231ed5e3ad49ebbfd3770031cc1b3f75/tenor.gif?itemid=7432079"/>
+<img align="right" width="30%" src="https://media1.tenor.com/images/03b05bb461bfae7bff76a463c39f734c/tenor.gif?itemid=10034397"/>
 
 - 🏫 I'm a student at the University of Tsukuba in Japan.
 - 🌱 I'm interested in competitive programming, evolutionary computation, team development, and backend.
