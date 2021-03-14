@@ -26,10 +26,10 @@
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&amp;logo=youtube&amp;logoColor=white">
   </a>
   <a href="https://docs.google.com/presentation/d/1K4m_vTmV9x2ZvDPesYVIBST0K_h1jNjBMLhQwkdlSCQ/edit#slide=id.p" target="_blank" rel="noopener">
-  <img src="https://img.shields.io/badge/-GoogleSlide-4285F4?style=flat&amp;logo=google&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/-Slide-4285F4?style=flat&amp;logo=google&amp;logoColor=white">
   </a>
   <a href="https://drive.google.com/drive/folders/16P73HK-dLVChC2ivkYosRIY9bT6VXmaC" target="_blank" rel="noopener">
-  <img src="https://img.shields.io/badge/-GoogleDrive-4285F4?style=flat&amp;logo=google&amp;drive&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/-Drive-4285F4?style=flat&amp;logo=google drive&amp;logoColor=white">
   </a>
   <a href="https://www.amazon.co.jp/hz/wishlist/ls/7297J1ZN3DSH" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/-Amazon-FF9900?style=flat&amp;logo=amazon&amp;logoColor=white">
