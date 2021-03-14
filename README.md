@@ -102,7 +102,7 @@ $ docker run --rm ganariya/ganariya:ascii
 - 第二回全国統一プログラミング王決定戦本戦 2019
 - TopCoder Eastern Asia Regionals 2020
 - ICPC Asia Yokohama Regional 2020
-- Discovery Channel Code Contest 2021
+- Discovery Channel Code Contest 2021 本戦
 
 <!-- ## 🐾 Hobby
 
