@@ -79,6 +79,7 @@ $ docker run --rm ganariya/ganariya:ascii
 
 ## 🐾 Competitive Programming
 
+<img align="right" width="40%" src="https://media4.giphy.com/media/a7HKjDb3UJ0kM/giphy.gif?cid=ecf05e47o6k2ihmwcuucragmtv4192z0k8t8jjiquodp13qu&rid=giphy.gif">
 
 #### Rating
 
