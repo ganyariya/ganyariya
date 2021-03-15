@@ -22,6 +22,9 @@
   <a href="https://twitter.com/ganariya" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&amp;logo=twitter&amp;logoColor=white">
   </a>
+  <a href="https://speakerdeck.com/ganariya" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/-Deck-009287?style=flat&amp;logo=speaker%20deck&amp;logoColor=white">
+  </a>
   <a href="https://www.youtube.com/channel/UCPTKMrRhOSf30v59Ktbpl1A" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&amp;logo=youtube&amp;logoColor=white">
   </a>
@@ -80,7 +83,7 @@ $ docker run --rm ganariya/ganariya:ascii
 
 #### Rating
 
-[![Badge](https://cp-logo.vercel.app/atcoder/ganariya2525)](https://atcoder.jp/users/ganariya2525) [![Badge](https://cp-logo.vercel.app/codeforces/ganariya)](https://codeforces.com/profile/ganariya) [![Badge](https://cp-logo.vercel.app/yukicoder/ganariya)](https://yukicoder.me/users/3037) [![Badge](https://cp-logo.vercel.app/topcoder/ganariya)](https://tco20.topcoder.com/members/ganariya/) 
+[![Badge](https://cp-logo.vercel.app/atcoder/ganariya2525)](https://atcoder.jp/users/ganariya2525) [![Badge](https://cp-logo.vercel.app/codeforces/ganariya)](https://codeforces.com/profile/ganariya) [![Badge](https://cp-logo.vercel.app/yukicoder/ganariya)](https://yukicoder.me/users/3037)
 
 <!--START_SECTION:custom_action-->
 #### Recently Solved Problems
