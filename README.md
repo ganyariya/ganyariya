@@ -122,11 +122,11 @@ $ docker run --rm ganariya/ganariya:ascii
 
 
 <div align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=ganariya&theme=dark" alt="ganariya" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganariya&theme=dark" alt="ganariya" />
 </div>
 
 <div align="center">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=Ganariya&count_private=true&show_icons=true&theme=dracula" alt="ganariya" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ganariya&count_private=true&show_icons=true&theme=dracula" alt="ganariya" />
 </div>
 
 <!-- <p align="center">
