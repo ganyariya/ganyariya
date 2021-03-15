@@ -22,9 +22,6 @@
   <a href="https://twitter.com/ganariya" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&amp;logo=twitter&amp;logoColor=white">
   </a>
-  <a href="https://speakerdeck.com/ganariya" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/-Deck-009287?style=flat&amp;logo=speaker%20deck&amp;logoColor=white">
-  </a>
   <a href="https://www.youtube.com/channel/UCPTKMrRhOSf30v59Ktbpl1A" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&amp;logo=youtube&amp;logoColor=white">
   </a>
@@ -79,24 +76,24 @@ $ docker run --rm ganariya/ganariya:ascii
 
 ## 🐾 Competitive Programming
 
-<img align="right" width="40%" src="https://media4.giphy.com/media/a7HKjDb3UJ0kM/giphy.gif?cid=ecf05e47o6k2ihmwcuucragmtv4192z0k8t8jjiquodp13qu&rid=giphy.gif">
+<img align="right" width="40%" src="https://media1.tenor.com/images/f7aaaa0e97da3e9b55f1e2e88c288237/tenor.gif?itemid=17194703">
 
 #### Rating
 
-[![Badge](https://cp-logo.vercel.app/atcoder/ganariya2525)](https://atcoder.jp/users/ganariya2525) [![Badge](https://cp-logo.vercel.app/codeforces/ganariya)](https://codeforces.com/profile/ganariya) [![Badge](https://cp-logo.vercel.app/yukicoder/ganariya)](https://yukicoder.me/users/3037)
+[![Badge](https://cp-logo.vercel.app/atcoder/ganariya2525)](https://atcoder.jp/users/ganariya2525) [![Badge](https://cp-logo.vercel.app/codeforces/ganariya)](https://codeforces.com/profile/ganariya) [![Badge](https://cp-logo.vercel.app/yukicoder/ganariya)](https://yukicoder.me/users/3037) [![Badge](https://cp-logo.vercel.app/topcoder/ganariya)](https://tco20.topcoder.com/members/ganariya/) 
 
 <!--START_SECTION:custom_action-->
 #### Recently Solved Problems
-[![Badge](https://img.shields.io/static/v1?label=ARC114B%20400&message=AC&color=brightgreen)](https://atcoder.jp/contests/arc114/submissions/20935009)
-[![Badge](https://img.shields.io/static/v1?label=ARC114B%200&message=WA&color=yellow)](https://atcoder.jp/contests/arc114/submissions/20934486)
-[![Badge](https://img.shields.io/static/v1?label=ARC114A%20300&message=AC&color=brightgreen)](https://atcoder.jp/contests/arc114/submissions/20931273)
-[![Badge](https://img.shields.io/static/v1?label=ABC195F%20600&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc195/submissions/20919891)
-[![Badge](https://img.shields.io/static/v1?label=ABC195E%20500&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc195/submissions/20919628)
-[![Badge](https://img.shields.io/static/v1?label=ABC195E%200&message=TLE&color=yellow)](https://atcoder.jp/contests/abc195/submissions/20919620)
 [![Badge](https://img.shields.io/static/v1?label=ABC195D%20400&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc195/submissions/20919103)
 [![Badge](https://img.shields.io/static/v1?label=ABC195C%20300&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc195/submissions/20918844)
 [![Badge](https://img.shields.io/static/v1?label=ABC195B%20200&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc195/submissions/20918742)
 [![Badge](https://img.shields.io/static/v1?label=ABC195F%200&message=WA&color=yellow)](https://atcoder.jp/contests/abc195/submissions/20903772)
+[![Badge](https://img.shields.io/static/v1?label=ABC195E%20500&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc195/submissions/20892078)
+[![Badge](https://img.shields.io/static/v1?label=ABC195D%20400&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc195/submissions/20886318)
+[![Badge](https://img.shields.io/static/v1?label=ABC195C%20300&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc195/submissions/20881726)
+[![Badge](https://img.shields.io/static/v1?label=ABC195B%20200&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc195/submissions/20878510)
+[![Badge](https://img.shields.io/static/v1?label=ABC195A%20100&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc195/submissions/20868712)
+[![Badge](https://img.shields.io/static/v1?label=ABC194E%20500&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc194/submissions/20797048)
 
 <!--END_SECTION:custom_action-->
 
@@ -126,6 +123,7 @@ $ docker run --rm ganariya/ganariya:ascii
 <p align="center">
 <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ganariya&theme=dark" alt="ganariya" /> <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Ganariya&count_private=true&show_icons=true&theme=dracula" alt="ganariya" />
 </p>
+
 
 <!-- START_SECTION:waka-noe -->
 <!-- END_SECTION:waka-noe -->
