@@ -70,6 +70,7 @@ $ docker run --rm ganariya/ganariya:ascii
   - Applied Information Technology Engineer Examination
   ###  🐾  Intern
 
+  - Triple Four 2018 2019
   - freee Summer Internship 2020
   - いい生活 Long-term Internship
   - VOYAGE GROUP Sunrise Internship 2020
