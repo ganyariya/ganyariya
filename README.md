@@ -41,7 +41,7 @@
 
 <div>
 
-<img align="right" width="28%" src="https://media1.tenor.com/images/335ef5cb84ada50d40e20608b8399937/tenor.gif?itemid=203134411"/>
+<!-- <img align="right" width="28%" src="https://media1.tenor.com/images/335ef5cb84ada50d40e20608b8399937/tenor.gif?itemid=203134411"/> -->
 
 - 🏫 I'm a student at the University of Tsukuba in Japan.
 - 🌱 I'm interested in competitive programming, artificial intelligence, team development, and backend.
@@ -63,7 +63,7 @@ $ docker run --rm ganariya/ganariya:ascii
 
 ## 🐾  Qualification
 
-<img align="right" width="50%" src="https://media1.tenor.com/images/afe5d5f3de26692f8409c12b6cb06d76/tenor.gif?itemid=11233523">
+<!-- <img align="right" width="50%" src="https://media1.tenor.com/images/afe5d5f3de26692f8409c12b6cb06d76/tenor.gif?itemid=11233523"> -->
 
   - TOEIC: 925
   - Fundamental Information Technology Engineer Examination
@@ -76,7 +76,7 @@ $ docker run --rm ganariya/ganariya:ascii
 
 ## 🐾 Competitive Programming
 
-<img align="right" width="40%" src="https://media1.tenor.com/images/f7aaaa0e97da3e9b55f1e2e88c288237/tenor.gif?itemid=17194703">
+<!-- <img align="right" width="40%" src="https://media1.tenor.com/images/f7aaaa0e97da3e9b55f1e2e88c288237/tenor.gif?itemid=17194703"> -->
 
 #### Rating
 
