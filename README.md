@@ -42,7 +42,10 @@
 <div>
 
 <!-- <img align="right" width="28%" src="https://media1.tenor.com/images/335ef5cb84ada50d40e20608b8399937/tenor.gif?itemid=203134411"/> -->
-<img align="right" width="35%" src="wataokiba_girl.png"/>
+<a href="https://wataokiba.net/">
+  <img align="right" width="35%" src="wataokiba_girl.png"/>
+</a>
+
 
 - 🏫 I'm a student at the University of Tsukuba in Japan.
 - 🌱 I'm interested in competitive programming, artificial intelligence, team development, and backend.
