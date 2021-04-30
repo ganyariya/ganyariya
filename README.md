@@ -2,7 +2,7 @@
 
 <h1 align="center">
   Hello, ganariya!
-  <img src="https://github.com/Ganariya/Ganariya/blob/master/ganariya.png?raw=true" height="30px" alt="ganariya"/>
+  <img src="https://github.com/Ganariya/Ganariya/blob/main/ganariya.png?raw=true" height="30px" alt="ganariya"/>
 </h1>
 
 <div align="center">
