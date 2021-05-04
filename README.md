@@ -131,11 +131,11 @@ $ docker run --rm ganariya/ganariya:ascii
 
 ## 🐾 Blog
 <!-- BLOG-POST-LIST:START -->
+- [Nim で ModInt 構造体を作る](https://zenn.dev/ganariya/articles/nim-modint-struct)
 - [Nimは値渡し？参照渡し？](https://zenn.dev/ganariya/articles/nim-copy-reference)
 - [Nimの競技プログラミング標準入出力 まとめ](https://zenn.dev/ganariya/articles/nim-input-output)
 - [Pythonにおけるお手軽グリッドサーチ](https://zenn.dev/ganariya/articles/grid-search-python)
 - [Mac+fishでpyenvのpathを通す](https://zenn.dev/ganariya/articles/fish-pyenv-setup)
-- [LaTeXでgit更新の差分をPDFにする](https://zenn.dev/ganariya/articles/latex-diff-vc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- <p align="center">
