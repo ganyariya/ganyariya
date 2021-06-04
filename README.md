@@ -131,11 +131,11 @@ $ docker run --rm ganariya/ganariya:ascii
 
 ## 🐾 Blog
 <!-- BLOG-POST-LIST:START -->
+- [pydocstyle+bytes型でエラーを出し続けたお話](https://zenn.dev/ganariya/articles/pydocstyle-bytes)
 - [Plotlyで高画質の画像を出力する](https://zenn.dev/ganariya/articles/plotly-high-resolution)
 - [かわいいスライドでプレゼンしたい](https://zenn.dev/ganariya/articles/kawaii-slide)
 - [モンテカルロ木探索を Python で実装する](https://zenn.dev/ganariya/articles/python-monte-carlo-tree-search)
 - [Nim で ModInt 構造体を作る](https://zenn.dev/ganariya/articles/nim-modint-struct)
-- [Nimは値渡し？参照渡し？](https://zenn.dev/ganariya/articles/nim-copy-reference)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- <p align="center">
