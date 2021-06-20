@@ -131,11 +131,11 @@ $ docker run --rm ganariya/ganariya:ascii
 
 ## 🐾 Blog
 <!-- BLOG-POST-LIST:START -->
+- [LaTeX の MultiRow MultiColumn のお気持ちを理解する](https://zenn.dev/ganariya/articles/latex-multi-row-and-column)
+- [Plotly の Radar Chart をシンプルにする](https://zenn.dev/ganariya/articles/plotly-radar-chart)
 - [Poetry でローカルのパッケージをインストールする](https://zenn.dev/ganariya/articles/poetry-local-all)
 - [Zenn の Google Analytics の仕組みに思いを馳せる](https://zenn.dev/ganariya/articles/zenn-analytics)
 - [pydocstyle+bytes型でエラーを出し続けたお話](https://zenn.dev/ganariya/articles/pydocstyle-bytes)
-- [Plotlyで高画質の画像を出力する](https://zenn.dev/ganariya/articles/plotly-high-resolution)
-- [かわいいスライドでプレゼンしたい](https://zenn.dev/ganariya/articles/kawaii-slide)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- <p align="center">
