@@ -86,7 +86,7 @@ $ docker run --rm ganyariya/ganyariya:ascii
 
 #### Rating
 
-[![Badge](https://cp-logo.vercel.app/atcoder/ganyariya2525)](https://atcoder.jp/users/ganyariya2525) [![Badge](https://cp-logo.vercel.app/codeforces/ganyariya)](https://codeforces.com/profile/ganyariya) [![Badge](https://cp-logo.vercel.app/yukicoder/ganyariya)](https://yukicoder.me/users/3037)
+[![Badge](https://cp-logo.vercel.app/atcoder/ganyariya)](https://atcoder.jp/users/ganyariya) [![Badge](https://cp-logo.vercel.app/codeforces/ganyariya)](https://codeforces.com/profile/ganyariya) [![Badge](https://cp-logo.vercel.app/yukicoder/ganyariya)](https://yukicoder.me/users/3037)
 
 <!--START_SECTION:custom_action-->
 #### Recently Solved Problems
