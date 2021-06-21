@@ -12,5 +12,5 @@ jobs:
       - uses: Ganariya/atcoder-readme-action@master
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          USERNAME: "Ganariya"
-          ATCODER_ACCOUNT: "ganariya2525"
+          USERNAME: "ganyariya"
+          ATCODER_ACCOUNT: "ganyariya"
