@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/-Zenn-3EA8FF?style=flat&logo=zenn&logoColor=white">
   </a>
   <a href="https://ganyariya.netlify.app/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/-Blog-9F55FF?style=flat&amp;logo=home%20advisor&amp;logoColor=white">
+    <img src="https://img.shields.io/badge/-HP-9F55FF?style=flat&amp;logo=homeadvisor&amp;logoColor=white">
   </a>
   <a href="https://twitter.com/ganyariya" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&amp;logo=twitter&amp;logoColor=white">
