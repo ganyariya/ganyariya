@@ -9,7 +9,7 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: Ganariya/atcoder-readme-action@master
+      - uses: ganyariya/atcoder-readme-action@master
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           USERNAME: "ganyariya"
