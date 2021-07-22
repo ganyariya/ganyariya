@@ -131,11 +131,11 @@ $ docker run --rm ganyariya/ganyariya:ascii
 
 ## 🐾 Blog
 <!-- BLOG-POST-LIST:START -->
+- [世界で2番目にお手軽なバーチャルアニメZoomビデオ](https://zenn.dev/ganariya/articles/zoom-obs-camera)
 - [VSCode のショートカットをいじるときに覚えておくと便利な単語](https://zenn.dev/ganariya/articles/vscode-component-name)
 - [GoogleSlides で MagicMouse2 右クリするとスライドがずれる問題を解決する](https://zenn.dev/ganariya/articles/google-slides-click)
 - [LaTeX の MultiRow MultiColumn のお気持ちを理解する](https://zenn.dev/ganariya/articles/latex-multi-row-and-column)
 - [Plotly の Radar Chart をシンプルにする](https://zenn.dev/ganariya/articles/plotly-radar-chart)
-- [Poetry でローカルのパッケージをインストールする](https://zenn.dev/ganariya/articles/poetry-local-all)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- <p align="center">
