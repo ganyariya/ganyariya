@@ -90,6 +90,9 @@ $ docker run --rm ganyariya/ganyariya:ascii
 
 <!--START_SECTION:custom_action-->
 #### Recently Solved Problems
+[![Badge](https://img.shields.io/static/v1?label=TYPICAL90G%203&message=AC&color=brightgreen)](https://atcoder.jp/contests/typical90/submissions/24535956)
+[![Badge](https://img.shields.io/static/v1?label=TYPICAL90F%205&message=AC&color=brightgreen)](https://atcoder.jp/contests/typical90/submissions/24535609)
+[![Badge](https://img.shields.io/static/v1?label=TYPICAL90F%205&message=AC&color=brightgreen)](https://atcoder.jp/contests/typical90/submissions/24535119)
 [![Badge](https://img.shields.io/static/v1?label=ABC211D%20400&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc211/submissions/24497870)
 [![Badge](https://img.shields.io/static/v1?label=ABC211C%20300&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc211/submissions/24492866)
 [![Badge](https://img.shields.io/static/v1?label=ABC211B%20200&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc211/submissions/24482652)
@@ -97,9 +100,6 @@ $ docker run --rm ganyariya/ganyariya:ascii
 [![Badge](https://img.shields.io/static/v1?label=ABC210E%20500&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc210/submissions/24381147)
 [![Badge](https://img.shields.io/static/v1?label=ABC210E%200&message=WA&color=yellow)](https://atcoder.jp/contests/abc210/submissions/24381140)
 [![Badge](https://img.shields.io/static/v1?label=ABC210D%20400&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc210/submissions/24352444)
-[![Badge](https://img.shields.io/static/v1?label=ABC210D%200&message=WA&color=yellow)](https://atcoder.jp/contests/abc210/submissions/24340644)
-[![Badge](https://img.shields.io/static/v1?label=ABC210C%20300&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc210/submissions/24340146)
-[![Badge](https://img.shields.io/static/v1?label=ABC210B%20200&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc210/submissions/24340110)
 
 <!--END_SECTION:custom_action-->
 
