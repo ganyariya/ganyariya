@@ -90,16 +90,16 @@ $ docker run --rm ganyariya/ganyariya:ascii
 
 <!--START_SECTION:custom_action-->
 #### Recently Solved Problems
+[![Badge](https://img.shields.io/static/v1?label=ABC214D%20400&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc214/submissions/25042792)
+[![Badge](https://img.shields.io/static/v1?label=ABC214C%20300&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc214/submissions/25031038)
+[![Badge](https://img.shields.io/static/v1?label=ABC214B%20200&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc214/submissions/25020873)
+[![Badge](https://img.shields.io/static/v1?label=ABC214A%20100&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc214/submissions/25016479)
 [![Badge](https://img.shields.io/static/v1?label=ABC212D%20400&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc212/submissions/24661043)
 [![Badge](https://img.shields.io/static/v1?label=ABC212C%20300&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc212/submissions/24653325)
 [![Badge](https://img.shields.io/static/v1?label=ABC212B%20200&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc212/submissions/24651128)
 [![Badge](https://img.shields.io/static/v1?label=ABC212A%20100&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc212/submissions/24645147)
 [![Badge](https://img.shields.io/static/v1?label=TYPICAL90G%203&message=AC&color=brightgreen)](https://atcoder.jp/contests/typical90/submissions/24535956)
 [![Badge](https://img.shields.io/static/v1?label=TYPICAL90F%205&message=AC&color=brightgreen)](https://atcoder.jp/contests/typical90/submissions/24535609)
-[![Badge](https://img.shields.io/static/v1?label=TYPICAL90F%205&message=AC&color=brightgreen)](https://atcoder.jp/contests/typical90/submissions/24535119)
-[![Badge](https://img.shields.io/static/v1?label=ABC211D%20400&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc211/submissions/24497870)
-[![Badge](https://img.shields.io/static/v1?label=ABC211C%20300&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc211/submissions/24492866)
-[![Badge](https://img.shields.io/static/v1?label=ABC211B%20200&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc211/submissions/24482652)
 
 <!--END_SECTION:custom_action-->
 
