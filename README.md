@@ -131,11 +131,11 @@ $ docker run --rm ganyariya/ganyariya:ascii
 
 ## 🐾 Blog
 <!-- BLOG-POST-LIST:START -->
+- [Google Colaboratory で Python3.9 を実行する](https://zenn.dev/ganariya/articles/google-colaboratory-python39)
 - [CLI を作る中でわかった deno のうれしさ](https://zenn.dev/ganariya/articles/deno-cli-derain)
 - [Appleユーザーが強制的に集中できる環境を構築する](https://zenn.dev/ganariya/articles/mac-force-focus)
 - [世界で2番目にお手軽なバーチャルアニメZoomビデオ配信](https://zenn.dev/ganariya/articles/zoom-obs-camera)
 - [VSCode のショートカットをいじるときに覚えておくと便利な単語](https://zenn.dev/ganariya/articles/vscode-component-name)
-- [GoogleSlides で MagicMouse2 右クリするとスライドがずれる問題を解決する](https://zenn.dev/ganariya/articles/google-slides-click)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- <p align="center">
