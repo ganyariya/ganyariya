@@ -49,7 +49,8 @@
 
 - 🏫 I'm a student at the University of Tsukuba in Japan.
 - 🌱 I'm interested in competitive programming, artificial intelligence, team development, and backend.
-- 📞 Please feel free to ask me on Twitter!
+- 📩 Please feel free to ask me on [Twitter](https://twitter.com/ganyariya)!
+- 📦 My more detail [homepage](https://ganyariya.netlify.app/)!
 
 ```bash
 $ docker run --rm ganyariya/ganyariya:ascii
