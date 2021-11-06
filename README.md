@@ -4,6 +4,9 @@
   Hello, ganyariya!
   <img src="https://github.com/ganyariya/ganyariya/blob/main/ganyariya.png?raw=true" height="30px" alt="ganyariya"/>
 </h1>
+<div align="center">
+ <img height="64px"  src="https://count.getloli.com/get/@:ganyariya?theme=rule34" alt=":ganyariya" />
+</div>
 
 <div align="center">
 
