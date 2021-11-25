@@ -43,7 +43,7 @@
 
 <div align="center">
 
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/ganyariya/posts.svg)](http://qiita.com/ganyariya) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/ganyariya/contributions.svg)](http://qiita.com/ganyariya) [![My Qiita followers](https://qiita-badge.apiapi.app/s/ganyariya/followers.svg)](http://qiita.com/ganyariya) ![ganariya-liked](https://zenn.badge.nikaera.com/s/ganariya/likes?style=flat-square) ![ganariya-followers](https://zenn.badge.nikaera.com/s/ganariya/followers?style=flat-square) ![ganariya-articles](https://zenn.badge.nikaera.com/s/ganariya/articles?style=flat-square)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/ganyariya/contributions.svg)](http://qiita.com/ganyariya) [![My Qiita posts](https://qiita-badge.apiapi.app/s/ganyariya/posts.svg)](http://qiita.com/ganyariya) [![My Qiita followers](https://qiita-badge.apiapi.app/s/ganyariya/followers.svg)](http://qiita.com/ganyariya) ![ganariya-liked](https://zenn.badge.nikaera.com/s/ganariya/likes?style=flat-square) ![ganariya-articles](https://zenn.badge.nikaera.com/s/ganariya/articles?style=flat-square) ![ganariya-followers](https://zenn.badge.nikaera.com/s/ganariya/followers?style=flat-square) 
 
 </div>
 
