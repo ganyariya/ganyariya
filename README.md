@@ -131,9 +131,9 @@ $ docker run --rm ganyariya/ganyariya:ascii
 
 
 <div align="center">
-  <img src="https://c.tenor.com/t-3aFcNhMfIAAAAC/toradora-taiga-excited.gif" alt="taiga" width="25%" align="right"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganyariya&theme=dark" alt="ganyariya" width="70%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ganyariya&count_private=true&show_icons=true&theme=dracula" alt="ganyariya" width="70%"/>
+  <img src="https://c.tenor.com/t-3aFcNhMfIAAAAC/toradora-taiga-excited.gif" alt="taiga" width="38%" align="right"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganyariya&theme=dark" alt="ganyariya" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ganyariya&count_private=true&show_icons=true&theme=dracula" alt="ganyariya" width="60%"/>
 </div>
 
 ## 🐾 Blog
