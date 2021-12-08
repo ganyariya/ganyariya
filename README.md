@@ -139,11 +139,11 @@ $ docker run --rm ganyariya/ganyariya:ascii
 
 ## 🐾 Blog
 <!-- BLOG-POST-LIST:START -->
+- [ganyariya with ABC230](https://zenn.dev/ganariya/articles/ganyariya-abc230)
 - [あば＾〜 Python の random のインスタンスって複数生成できるんすね〜](https://zenn.dev/ganariya/articles/python-random-independent)
 - [Deno で VSCode files.exclude を追加する CLI をつくった](https://zenn.dev/ganariya/articles/vsexclude-deno-cli)
 - [Google Colaboratory で Python3.9 を実行する](https://zenn.dev/ganariya/articles/google-colaboratory-python39)
 - [CLI を作る中でわかった deno のうれしさ](https://zenn.dev/ganariya/articles/deno-cli-derain)
-- [Appleユーザーが強制的に集中できる環境を構築する](https://zenn.dev/ganariya/articles/mac-force-focus)
 <!-- BLOG-POST-LIST:END -->
 
 
