@@ -139,11 +139,11 @@ $ docker run --rm ganyariya/ganyariya:ascii
 
 ## 🐾 Blog
 <!-- BLOG-POST-LIST:START -->
+- [skhd を設定するときに便利そうなイディオム](https://zenn.dev/ganariya/articles/mac-skhd-setting)
 - [競プロの解説記事を書いてみようというお話](https://zenn.dev/ganariya/articles/write-competitive-programming-article)
 - [Deno + Aleph.js で OBS 上に Glitch Text を表示するためのライブラリとサイトをつくった](https://zenn.dev/ganariya/articles/deno-obs-text-glitch)
 - [ganyariya with ABC231](https://zenn.dev/ganariya/articles/ganyariya-abc231)
 - [linter を使うときに . を指定しないほうがよさそう？](https://zenn.dev/ganariya/articles/linter-designate)
-- [tmux っぽく VSCode を操作する](https://zenn.dev/ganariya/articles/tmux-like-vscode)
 <!-- BLOG-POST-LIST:END -->
 
 
