@@ -101,6 +101,7 @@ $ docker run --rm ganyariya/ganyariya:ascii
 
 <!--START_SECTION:custom_action-->
 #### Recently Solved Problems
+[![Badge](https://img.shields.io/static/v1?label=ARC135A%20300&message=AC&color=brightgreen)](https://atcoder.jp/contests/arc135/submissions/29301974)
 [![Badge](https://img.shields.io/static/v1?label=ABC238C%20300&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc238/submissions/29089137)
 [![Badge](https://img.shields.io/static/v1?label=ABC238C%200&message=WA&color=yellow)](https://atcoder.jp/contests/abc238/submissions/29087927)
 [![Badge](https://img.shields.io/static/v1?label=ABC238B%20200&message=AC&color=brightgreen)](https://atcoder.jp/contests/abc238/submissions/29083484)
@@ -110,7 +111,6 @@ $ docker run --rm ganyariya/ganyariya:ascii
 [![Badge](https://img.shields.io/static/v1?label=ARC134C%200&message=TLE&color=yellow)](https://atcoder.jp/contests/arc134/submissions/29008213)
 [![Badge](https://img.shields.io/static/v1?label=ARC134C%200&message=TLE&color=yellow)](https://atcoder.jp/contests/arc134/submissions/29008174)
 [![Badge](https://img.shields.io/static/v1?label=ARC134B%20400&message=AC&color=brightgreen)](https://atcoder.jp/contests/arc134/submissions/29007728)
-[![Badge](https://img.shields.io/static/v1?label=ARC134A%20300&message=AC&color=brightgreen)](https://atcoder.jp/contests/arc134/submissions/29007384)
 
 <!--END_SECTION:custom_action-->
 
