@@ -139,11 +139,11 @@ $ docker run --rm ganyariya/ganyariya:ascii
 
 ## 🐾 Blog
 <!-- BLOG-POST-LIST:START -->
+- [ganyariya with ABC239](https://zenn.dev/ganariya/articles/ganyariya-abc239)
 - [ganyariya with ARC134](https://zenn.dev/ganariya/articles/ganyariya-arc134)
 - [ganyariya with ABC237](https://zenn.dev/ganariya/articles/ganyariya-abc237)
 - [VSCode の起動時間 高速化の荒業](https://zenn.dev/ganariya/articles/vscode-faster)
 - [skhd を設定するときに便利そうなイディオム](https://zenn.dev/ganariya/articles/mac-skhd-setting)
-- [競プロの解説記事を書いてみようというお話](https://zenn.dev/ganariya/articles/write-competitive-programming-article)
 <!-- BLOG-POST-LIST:END -->
 
 
