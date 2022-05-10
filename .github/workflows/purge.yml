@@ -1,0 +1,16 @@
+name: Purge Badges
+on:
+  schedule: # Run workflow automatically
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Run workflow manually
+jobs:
+  purge:
+    name: Purge badges
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          cd /tmp
+          curl -LO https://raw.githubusercontent.com/mpyw/hub-purge/master/hub-purge.sh
+          chmod +x hub-purge.sh
+          mv hub-purge.sh /usr/local/bin/hub-purge
+      - run: /usr/local/bin/hub-purge https://github.com/ganyariya/ganyariya
