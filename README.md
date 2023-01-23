@@ -134,11 +134,11 @@ $ docker run --rm ganyariya/ganyariya:ascii
 
 ## 🐾 Blog
 <!-- BLOG-POST-LIST:START -->
+- [競技プログラミングの環境を VSCode devcontainer で作成する](https://zenn.dev/ganariya/articles/competitive-devcontainer)
 - [tty・i-node・ファイルディスクリプタによる入出力の流れを &quot;echo World &gt; hello.txt&quot; で理解する](https://zenn.dev/ganariya/articles/linux-file-system)
 - [ganyariya with ABC239](https://zenn.dev/ganariya/articles/ganyariya-abc239)
 - [ganyariya with ARC134](https://zenn.dev/ganariya/articles/ganyariya-arc134)
 - [ganyariya with ABC237](https://zenn.dev/ganariya/articles/ganyariya-abc237)
-- [VSCode の起動時間 高速化の荒業](https://zenn.dev/ganariya/articles/vscode-faster)
 <!-- BLOG-POST-LIST:END -->
 
 
