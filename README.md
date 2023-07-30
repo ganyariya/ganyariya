@@ -19,6 +19,9 @@
   <a href="https://zenn.dev/ganariya" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/-Zenn-3EA8FF?style=flat&logo=zenn&logoColor=white">
   </a>
+  <a href="https://www.resume.id/ganyariya" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/-Resume-3EA8FF?style=flat&logo=readme&logoColor=white">
+  </a>
   <a href="https://ganyariya.netlify.app/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/-HomePage-9F55FF?style=flat&amp;logo=homeadvisor&amp;logoColor=white">
   </a>
