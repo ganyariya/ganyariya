@@ -25,6 +25,9 @@
   <a href="https://ganyariya.netlify.app/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/-HomePage-9F55FF?style=flat&amp;logo=homeadvisor&amp;logoColor=white">
   </a>
+  <a href="https://blog.ganyariya.net/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/-Blog-9F55FF?style=flat&amp;logo=homeadvisor&amp;logoColor=white">
+  </a>
   <a href="https://twitter.com/ganyariya" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&amp;logo=twitter&amp;logoColor=white">
   </a>
@@ -43,7 +46,7 @@
 
 <div align="center">
 
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/ganyariya/contributions.svg)](http://qiita.com/ganyariya) [![My Qiita posts](https://qiita-badge.apiapi.app/s/ganyariya/posts.svg)](http://qiita.com/ganyariya) [![My Qiita followers](https://qiita-badge.apiapi.app/s/ganyariya/followers.svg)](http://qiita.com/ganyariya) ![ganariya-liked](https://zenn.badge.nikaera.com/s/ganariya/likes?style=flat-square) ![ganariya-articles](https://zenn.badge.nikaera.com/s/ganariya/articles?style=flat-square) ![ganariya-followers](https://zenn.badge.nikaera.com/s/ganariya/followers?style=flat-square) 
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/ganyariya/contributions.svg)](http://qiita.com/ganyariya) [![My Qiita posts](https://qiita-badge.apiapi.app/s/ganyariya/posts.svg)](http://qiita.com/ganyariya) [![My Qiita followers](https://qiita-badge.apiapi.app/s/ganyariya/followers.svg)](http://qiita.com/ganyariya) [![Likes](https://badgen.org/img/zenn/ganariya/likes?style=flat)](https://zenn.dev/ganariya) [![Articles](https://badgen.org/img/zenn/ganariya/articles?style=flat)](https://zenn.dev/ganariya) [![Followers](https://badgen.org/img/zenn/ganariya/followers?style=flat)](https://zenn.dev/ganariya) 
 
 </div>
 
