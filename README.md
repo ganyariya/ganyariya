@@ -143,11 +143,11 @@ $ docker run --rm ganyariya/ganyariya:ascii
 
 ## 🐾 Blog
 <!-- BLOG-POST-LIST:START -->
+- [パッケージ設計の原則とSOLID原則についてまとめる](https://zenn.dev/ganariya/articles/object-oriented-principle)
 - [BigQuery のウィンドウ関数のイメージ例と使用例をまとめる](https://zenn.dev/ganariya/articles/bigquery-window-function)
 - [ソケット通信の仕組みをスライド図解と Go 実装でまとめてみる](https://zenn.dev/ganariya/articles/socket-slide-illustration-go-implement)
 - [GCPで Misskey の PostgresDB とメディアファイルをバックアップする](https://zenn.dev/ganariya/articles/gcp-misskey-backup)
 - [Cloud Functions を利用して Misskey の投稿を Twitter にも投稿する](https://zenn.dev/ganariya/articles/misskey-to-twittter-cloud-fucntions)
-- [GCP で小さな misskey インスタンスを建ててみる](https://zenn.dev/ganariya/articles/gcp-misskey-instance)
 <!-- BLOG-POST-LIST:END -->
 
 
