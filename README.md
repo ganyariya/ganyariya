@@ -141,7 +141,6 @@ $ docker run --rm ganyariya/ganyariya:ascii
 ## 🐾 Blog
 
 <!-- BLOG-POST-LIST:START -->
-
 - [BigQuery で最新のレコードを取得する](https://zenn.dev/ganariya/articles/bigquery-get-latext-record)
 - [git rebase について具体例を用いてうれしさをまとめる](https://zenn.dev/ganariya/articles/git-rebase-operation)
 - [パッケージ設計の原則とSOLID原則についてまとめる](https://zenn.dev/ganariya/articles/object-oriented-principle)
