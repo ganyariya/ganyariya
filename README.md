@@ -141,11 +141,11 @@ $ docker run --rm ganyariya/ganyariya:ascii
 ## 🐾 Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [chezmoi で dotfiles を管理するときに便利な機能についてまとめる](https://zenn.dev/ganariya/articles/useful-features-of-chezmoi)
 - [BigQuery で最新のレコードを取得する](https://zenn.dev/ganariya/articles/bigquery-get-latext-record)
 - [git rebase について具体例を用いてうれしさをまとめる](https://zenn.dev/ganariya/articles/git-rebase-operation)
 - [パッケージ設計の原則とSOLID原則についてまとめる](https://zenn.dev/ganariya/articles/object-oriented-principle)
 - [BigQuery のウィンドウ関数のイメージ例と使用例をまとめる](https://zenn.dev/ganariya/articles/bigquery-window-function)
-- [ソケット通信の仕組みをスライド図解と Go 実装でまとめてみる](https://zenn.dev/ganariya/articles/socket-slide-illustration-go-implement)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START_SECTION:waka-noe -->
