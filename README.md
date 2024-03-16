@@ -23,7 +23,7 @@
   <a href="https://ganyariya.netlify.app/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/-HomePage-9F55FF?style=flat&amp;logo=homeadvisor&amp;logoColor=white">
   </a>
-  <a href="https://blog.ganyariya.net/" target="_blank" rel="noopener">
+  <a href="https://blog.ganyariya.dev/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/-Blog-9F55FF?style=flat&amp;logo=homeadvisor&amp;logoColor=white">
   </a>
   <a href="https://twitter.com/ganyariya" target="_blank" rel="noopener">
@@ -59,7 +59,7 @@
 - 🏫 I'm a backend engineer of a certain Japanese social mobile game company.
 - 🌱 I'm interested in CI/CD, backend, web development, adv game engine, and team development.
 - 📩 Please feel free to ask me on [Twitter](https://twitter.com/ganyariya)!
-- 📦 My more detail [homepage](https://ganyariya.netlify.app/)!
+- 📦 My more detail [homepage](https://ganyariya.dev)!
 
 ```bash
 $ docker run --rm ganyariya/ganyariya:ascii
