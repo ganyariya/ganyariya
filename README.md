@@ -141,11 +141,11 @@ $ docker run --rm ganyariya/ganyariya:ascii
 ## 🐾 Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Neovim &lpar;lazy.nvim&rpar; で GitHub Copilot と Codeium を環境変数によって使い分ける](https://zenn.dev/ganariya/articles/neovim-switch-github-copilot-and-codeium)
 - [chezmoi で dotfiles を管理するときに便利な機能についてまとめる](https://zenn.dev/ganariya/articles/useful-features-of-chezmoi)
 - [BigQuery で最新のレコードを取得する](https://zenn.dev/ganariya/articles/bigquery-get-latext-record)
 - [git rebase について具体例を用いてうれしさをまとめる](https://zenn.dev/ganariya/articles/git-rebase-operation)
 - [パッケージ設計の原則とSOLID原則についてまとめる](https://zenn.dev/ganariya/articles/object-oriented-principle)
-- [BigQuery のウィンドウ関数のイメージ例と使用例をまとめる](https://zenn.dev/ganariya/articles/bigquery-window-function)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START_SECTION:waka-noe -->
