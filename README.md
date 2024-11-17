@@ -141,11 +141,11 @@ $ docker run --rm ganyariya/ganyariya:ascii
 ## 🐾 Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [jenkins のエージェントノード追加を試してみる](https://zenn.dev/ganariya/articles/trial-jenkins-master-agent-connection)
 - [自宅サーバの Kubernetes に Misskey を建ててインターネットからアクセスできるようにする](https://zenn.dev/ganariya/articles/setup-misskey-by-kubernetes)
 - [2024/10 時点における自宅サーバまとめと今後の展望](https://zenn.dev/ganariya/articles/202410-current-home-server-and-prospect)
 - [フレームワークをやめて 1 から neovim をセットアップしたら理解がとても進んだという話](https://zenn.dev/ganariya/articles/setup-neovim-from-scratch-instead-of-framework)
 - [Neovim &lpar;lazy.nvim&rpar; で GitHub Copilot と Codeium を環境変数によって使い分ける](https://zenn.dev/ganariya/articles/neovim-switch-github-copilot-and-codeium)
-- [chezmoi で dotfiles を管理するときに便利な機能についてまとめる](https://zenn.dev/ganariya/articles/useful-features-of-chezmoi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START_SECTION:waka-noe -->
