@@ -141,11 +141,11 @@ $ docker run --rm ganyariya/ganyariya:ascii
 ## 🐾 Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [GCP のスナップショットについて手を動かして学んだことをまとめる](https://zenn.dev/ganariya/articles/gcp-disk-snapshot)
 - [`Tidy First?` を読んで学んだこと](https://zenn.dev/ganariya/articles/tidy-first-ganyariya-thoughts)
 - [[参加記] ISUCON14 にチーム nanase として参加しました](https://zenn.dev/ganariya/articles/isucon2024-ganyariya)
 - [GitHub Actions から Google Cloud リソースにアクセスする Workload Identity 連携の仕組みを追う](https://zenn.dev/ganariya/articles/gcp-workload-identity-github-actions-how)
 - [jenkins のエージェントノード追加を試してみる](https://zenn.dev/ganariya/articles/trial-jenkins-master-agent-connection)
-- [自宅サーバの Kubernetes に Misskey を建ててインターネットからアクセスできるようにする](https://zenn.dev/ganariya/articles/setup-misskey-by-kubernetes)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START_SECTION:waka-noe -->
