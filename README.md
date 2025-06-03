@@ -141,11 +141,11 @@ $ docker run --rm ganyariya/ganyariya:ascii
 ## 🐾 Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [[ユースケース] Obsidian Vault と Quartz を分離した状態で Cloudflare Pages にデプロイする](https://zenn.dev/ganariya/articles/deploy-quartz4-with-submodule)
 - [がんばらない Obsidian](https://zenn.dev/ganariya/articles/effortless-obsidian)
 - [[2025/04] ganyariya の AI に対する向き合い方についてまとめておく](https://zenn.dev/ganariya/articles/ganyariya-ai-how-to-face)
 - [GCP のスナップショットについて手を動かして学んだことをまとめる](https://zenn.dev/ganariya/articles/gcp-disk-snapshot)
 - [`Tidy First?` を読んで学んだこと](https://zenn.dev/ganariya/articles/tidy-first-ganyariya-thoughts)
-- [[参加記] ISUCON14 にチーム nanase として参加しました](https://zenn.dev/ganariya/articles/isucon2024-ganyariya)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START_SECTION:waka-noe -->
