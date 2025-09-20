@@ -141,11 +141,11 @@ $ docker run --rm ganyariya/ganyariya:ascii
 ## 🐾 Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Full Weak Engineer CTF 2025 ganyariya&#39;s Writeup](https://zenn.dev/ganariya/articles/full-weak-enginner-ctf-writeup)
 - [[ユースケース] Obsidian Vault と Quartz を分離した状態で Cloudflare Pages にデプロイする](https://zenn.dev/ganariya/articles/deploy-quartz4-with-submodule)
 - [がんばらない Obsidian](https://zenn.dev/ganariya/articles/effortless-obsidian)
 - [[2025/04] ganyariya の AI に対する向き合い方についてまとめておく](https://zenn.dev/ganariya/articles/ganyariya-ai-how-to-face)
 - [GCP のスナップショットについて手を動かして学んだことをまとめる](https://zenn.dev/ganariya/articles/gcp-disk-snapshot)
-- [`Tidy First?` を読んで学んだこと](https://zenn.dev/ganariya/articles/tidy-first-ganyariya-thoughts)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START_SECTION:waka-noe -->
