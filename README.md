@@ -141,11 +141,11 @@ $ docker run --rm ganyariya/ganyariya:ascii
 ## 🐾 Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [C# の非同期処理について不自由さ克服のための移り変わりから学ぶ](https://zenn.dev/ganariya/articles/csharp-async-background)
 - [ABC426 の C/D 解法まとめ &lpar;ganyariya&rpar;](https://zenn.dev/ganariya/articles/atcoder-abc426-ganyariya)
 - [Full Weak Engineer CTF 2025 ganyariya&#39;s Writeup](https://zenn.dev/ganariya/articles/full-weak-enginner-ctf-writeup)
 - [[ユースケース] Obsidian Vault と Quartz を分離した状態で Cloudflare Pages にデプロイする](https://zenn.dev/ganariya/articles/deploy-quartz4-with-submodule)
 - [がんばらない Obsidian](https://zenn.dev/ganariya/articles/effortless-obsidian)
-- [[2025/04] ganyariya の AI に対する向き合い方についてまとめておく](https://zenn.dev/ganariya/articles/ganyariya-ai-how-to-face)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- START_SECTION:waka-noe -->
